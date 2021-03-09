@@ -1,6 +1,6 @@
 ---
 layout: page
-title: publications
+title: bolazo
 permalink: /publications/
 order: 2
 # ignore: true
