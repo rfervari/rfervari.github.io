@@ -4,7 +4,7 @@ title: about
 permalink: /
 order: 1
 # ignore: true
-<!-- description: <a href="#">Department of Mathematics</a>. University of Rio Cuarto. -->
+description: <a href="#">Department of Mathematics</a>. University of Rio Cuarto.
 
 profile:
   align: right
@@ -12,13 +12,14 @@ profile:
   address: >
     <p>PhD. in Computer Science</p>
     <p>Researcher at  CONICET (Arg)</p>
-    <p>Professor at FAMAF-UNC (Arg)</p>
+    <p>Professor at FAMAF-UNC</p>
+    <p>Córdoba, Argentina</p>
 
 news: true
 social: true
 ---
 
-<!-- I am a Tenured Professor (Adjunto) in the [Department of Mathematics](https://www.mat.exa.unrc.edu.ar) at the [University of Río Cuarto](https://www.unrc.edu.ar/), and a Researcher (Asistente) at [CONICET](https://www.conicet.gov.ar/).
+I am a Tenured Professor (Adjunto) in the [Department of Mathematics](https://www.mat.exa.unrc.edu.ar) at the [University of Río Cuarto](https://www.unrc.edu.ar/), and a Researcher (Asistente) at [CONICET](https://www.conicet.gov.ar/).
 
 I finished my Phd thesis in 2015 under the supervision of Tom Maibaum at [McMaster University](https://www.eng.mcmaster.ca/cas), Canada. The title of my thesis was _A Logical Basis for Reasoning with Default Rules_.
 
