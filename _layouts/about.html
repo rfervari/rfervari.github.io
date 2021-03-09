@@ -1,0 +1,76 @@
+---
+layout: default
+---
+
+<div class="post">
+
+  <!-- <header class="post-header">
+    {% assign name = site.title | split: ' ' %}
+    {% assign firstname = name | first %}
+    {% if name.size > 2 %}
+       {% assign middlenames =  name | slice:1, name.size-1 | join:" " %}
+    {% else %}
+       {% assign middlenames = '' %}
+    {% endif %}
+    {% assign lastname = name | last %}
+    {% if site.deploy %}
+
+      <a class="navbar-brand title font-weight-lighter" href="{{ site.hosturl }}/">
+        <span class="font-weight-bold">{{ firstname }}</span> {{ middlenames }}  {{ lastname }}
+      </a>
+
+    {% else %}
+
+      <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl | prepend: site.url }}/">
+        <span class="font-weight-bold">{{ firstname }}</span> {{ middlenames }}  {{ lastname }}
+      </a>
+
+    {% endif %}
+  </header> -->
+
+  <article>
+
+    <div class="row mt-4">
+
+      {% if page.profile %}
+      <div class="profile col-4 {% if page.profile.align == 'left' %}order-first{% endif %}">
+        {% if page.profile.image %}
+          <img class="img-fluid z-depth-1 rounded-circle" src="{{ page.profile.image | prepend: '/assets/img/' | relative_url }}">
+        {% endif %}
+        {% if page.profile.address %}
+          <div class="address col mt-3">
+            {{ page.profile.address }}
+          </div>
+        {% endif %}
+      </div>
+      {% endif %}
+
+      <div class="col ml-2 text-justify">
+        {{ content }}
+      </div>
+
+    </div>
+
+    {% if page.social %}
+    <div class="row mt-4">
+      <div class="profile col-4">
+      </div>
+      <div class="social col ml-2">
+        {% include social.html %}
+      <div class="contact-note">{{ site.contact_note }}</div>
+    </div>
+    </div>
+    {% endif %}
+
+    {% if page.news %}
+    <div class="row mt-4">
+      <div class="profile col-4"></div>
+
+      <div class="col ml-2">
+        {% include news.html %}
+      </div>
+    </div>
+    {% endif %}
+  </article>
+
+</div>

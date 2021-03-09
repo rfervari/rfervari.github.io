@@ -1,0 +1,11 @@
+# BUILD THE STATIC SITE
+
+bundle exec jekyll build
+
+# RUN LOCAL SITE
+
+bundle exec jekyll serve
+
+# UPDATE GIT REPOSITORY
+
+yes | cp -fr homepage/_site/* homesite/

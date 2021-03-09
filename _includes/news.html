@@ -1,0 +1,24 @@
+<div class="news">
+  <h4>news</h4>
+  {% if site.news  %}
+    <table class="table table-sm table-borderless">
+      {% assign news = site.news | reverse %}
+      {% for item in news limit: site.news_limit %}
+        <tr>
+          <td>
+            {{ item.date | date: "%m/%y" }}
+          </td>
+          <td>
+            {% if item.inline %}
+              {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+            {% else %}
+              <a class="news-title" href="{{ item.url | relative_url }}">{{ item.date | date: "%m/%y" }} -- {{ item.title }}</a>
+            {% endif %}
+          </td>
+        </tr>
+      {% endfor %}
+    </table>
+  {% else %}
+    <p>No news so far...</p>
+  {% endif %}
+</div>
