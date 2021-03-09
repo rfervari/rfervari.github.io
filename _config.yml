@@ -2,16 +2,16 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Valentin Cassano
-email: valentin@dc.exa.unrc.edu.ar
+title: Raul Fervari
+email: rfervari@unc.edu.ar
 description: > # this means to ignore newlines until "url:"
   Phd. Computer Science. Researcher at CONICET. Professor at the Department of Mathematics, University of Rio Cuarto.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
-deploy: false # set to true when generating the static site
-hosturl: https://vcassano.github.io # the url of the host (where is it hosted?)
+deploy: true # set to true when generating the static site
+hosturl: https://rfervari.github.io # the url of the host (where is it hosted?)
 url: # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
@@ -37,8 +37,8 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: vcassano # your GitHub user name
-twitter_username: elvalenok # your Twitter handle
+github_username: rfervari # your GitHub user name
+twitter_username: superlogico22 # your Twitter handle
 linkedin_username: # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
@@ -121,7 +121,7 @@ plugins:
 
 scholar:
 
-  last_name: Cassano
+  last_name: Fervari
 
   # style: assets/bibliography/chicago-fullnote-bibliography.csl
   style: apa
