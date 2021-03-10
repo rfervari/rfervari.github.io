@@ -8,7 +8,7 @@ description: <a href="#">CONICET & FAMAF-UNC</a>. Argentina.
 
 profile:
   align: right
-  image: rfervari.jpg
+  image: rfervari2.jpg
   address: >
     <p>PhD. in Computer Science</p>
     <p>Researcher at CONICET (Arg)</p>
