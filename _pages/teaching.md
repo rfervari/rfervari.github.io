@@ -1,6 +1,6 @@
 ---
 layout: page
-title: taching
+title: teaching
 permalink: /teaching/
 order: 3
 # ignore: false
