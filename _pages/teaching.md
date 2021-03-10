@@ -15,7 +15,7 @@ nav: true
 * [Introduction to Algorithms (1st year, undergraduate).](https://famaf.aulavirtual.unc.edu.ar/course/view.php?id=698)
 
 
-### <span style="color:purple">Previous Coursess at FAMAF-UNC</span>
+### <span style="color:purple">Previous Courses at FAMAF-UNC</span>
 
 * [Modern Aspects of Computational Logic (graduate course).](https://classroom.google.com/u/0/w/MTQ4MDEwNTE5NDUy/t/all)
     
