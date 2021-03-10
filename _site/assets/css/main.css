@@ -99,3 +99,11 @@ footer.sticky-bottom { border-top: 1px solid #e8e8e8; padding-top: 40px; padding
 .publications ol.bibliography li .hidden.open { max-height: 100em; -webkit-transition: 0.15s ease; -moz-transition: 0.15s ease; -ms-transition: 0.15s ease; -o-transition: 0.15s ease; transition: all 0.15s ease; }
 .publications ol.bibliography li span.abstract.hidden { border: dashed 1px white; }
 .publications ol.bibliography li span.abstract.hidden.open { border-color: #828282; }
+
+/* Whole document: */
+body { font-size: 11pt; }
+
+/* Headers */
+h1 { font-size: 18pt; }
+
+h2, h3, h4, h5, h6 { font-size: 14pt; }

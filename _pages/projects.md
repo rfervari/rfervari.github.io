@@ -3,7 +3,7 @@ layout: page
 title: research
 permalink: /projects/
 order: 3
-ignore: false
+ignore: true
 description: >
   I am a member of the Logics, Interaction and Intelligent Systems ([LIIS](https://liisgroup.github.io/)) group, at FAMAF-UNC (Argentina). I am also a member of the [Theory of Structured Data](https://sites.google.com/view/theoryofstructureddata-sinfin/home?authuser=0) group at the LIA SINFIN.
 nav: true

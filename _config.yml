@@ -40,16 +40,17 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: rfervari # your GitHub user name
 twitter_username: superlogico22 # your Twitter handle
 linkedin_username: # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
-orcid_id: # your ORCID ID
+scholar_userid: 3dg1ASwAAAAJ
+orcid_id: 0000-0003-0360-0725
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
-research_gate_profile: # your profile on ResearchGate
+research_gate_profile: Raul-Fervari
 blogger_url: # your blogger URL
 
 contact_note: >
   The best way to reach me is via email.
+
 
 google_analytics: # UA-XXXXXXXXX # out your google-analytics code
 
