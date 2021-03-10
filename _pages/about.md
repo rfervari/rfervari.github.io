@@ -12,7 +12,7 @@ profile:
   address: >
     <p>PhD. in Computer Science</p>
     <p>Researcher at CONICET (Arg)</p>
-    <p>Professor at FAMAF-UNC</p>
+    <p>Professor at FAMAF-UNC (Arg)</p>
   
     
 news: true
