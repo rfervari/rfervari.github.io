@@ -5,12 +5,12 @@ permalink: /publications/
 order: 2
 # ignore: false
 description: >
-  <p> List of in reversed chronological order.</p>
+  <p> List of publications in reversed chronological order.</p>
 years: [2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012]
 nav: true
 ---
 
-### <span style="color:darkblue">2021</span>
+### <span style="color:darkblue">2021.</span>
 * S. Demri, **R. Fervari** and A. Mansutti. [Internal Proof Calculi for Modal Logics with Separating Conjunction.](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2021-jlc.pdf) 
 >*Journal of Logic and Computation, 2021, in press.*
 
@@ -25,7 +25,7 @@ nav: true
 >*In Proceedings of 15th International Conference on Deontic Logic and Normative Systems (DEON2020/2021), to appear.*
 
 
-### <span style="color:darkblue">2020</span>
+### <span style="color:darkblue">2020.</span>
 * B. Bednarczyk, S. Demri, **R. Fervari**, and A. Mansutti. [Modal Logics with Composition on Finite Forests: Expressivity and Complexity.](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2020-lics.pdf) 
 >*In Proceedings of the 35th Annual ACM/IEEE Symposium on Logic In Computer Science (LICS'20), 2020. IEEE Press, pages 167–180, 2020.*
 
@@ -33,7 +33,7 @@ nav: true
 >*DaLı́ - Dynamic Logic: new trends and applications, Proceedings, LNCS, volume 12569, pages 103-119, 2020.*
 
 
-### <span style="color:darkblue">2019</span>
+### <span style="color:darkblue">2019.</span>
 * S. Demri and **R. Fervari**. [The Power of Modal Separation Logics.](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2019-jlc.pdf)
 >*Journal of Logic and Computation (JLC), volume 29, pages 1139–1184, 2019.*
 
@@ -56,7 +56,7 @@ nav: true
 >*DaLı́ - Dynamic Logic: new trends and applications, Proceedings, LNCS, volume 12005, pages 3-18, 2019.*
 
 
-### <span style="color:darkblue">2018</span>
+### <span style="color:darkblue">2018.</span>
 * C. Areces, **R. Fervari**, G. Hoffmann and M. Martel. [Satisfiability for Relation-Changing Logics.](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2018-jlc.pdf)
 >*Journal of Logic and Computation (JLC), volume 7, pages 1443–1470, 2018.*
 
@@ -71,7 +71,7 @@ nav: true
 
 
 
-### <span style="color:darkblue">2017</span>
+### <span style="color:darkblue">2017.</span>
 * S. Abriola, M. E. Descotte, **R. Fervari** and S. Figueira. [Axiomatizations for downward XPath on Data Trees.](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2017-jcss.pdf)
 >*Journal of Computer and System Sciences, volume 89, Pages 209–245, 2017.*
 
@@ -94,18 +94,18 @@ nav: true
 >*In Proceedings of the 5th International Workshop on Strategic Reasoning (SR 2017), 2017.*
 
 
-### <span style="color:darkblue">2016</span>
+### <span style="color:darkblue">2016.</span>
 * C. Areces, **R. Fervari**. [Hilbert-Style Axiomatization for Hybrid XPath with Data.](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2016-jelia.pdf)
 >*In Proceedings of the 15th European Conference on Logics in Artificial Intelligence (JELIA 2016),  volume 10021 of LNCS, pages 34-48, Springer 2016.*
 
 * C. Areces, **R. Fervari**, G. Hoffmann and M. Martel. [Relation-Changing Logics as Fragments of Hybrid Logics.](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2016-gandalf.pdf)
 >*In Proceedings of the 7th International Symposium on Games, Automata, Logics, and Formal Verification (GandALF 2016), 2016.*
 
-### <span style="color:darkblue">2015</span>
+### <span style="color:darkblue">2015.</span>
 * C. Areces, **R. Fervari** and G. Hoffmann. [Relation-Changing Modal Operators.](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2015-igpl.pdf)
 >*Logic Journal of IGPL, volume 23, number 4, pages 601–627, 2015.*
 
-### <span style="color:darkblue">2014</span>
+### <span style="color:darkblue">2014.</span>
 * **R. Fervari.** [Relation-Changing Modal Logics.](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2014-phdthesis.pdf)
 >*Phd Thesis, Universidad Nacional de Córdoba, Argentina, 2014.*
 
@@ -115,13 +115,13 @@ nav: true
 * C. Areces, H. van Ditmarsch, **R. Fervari** and F. Schwarzentruber. [Logics with Copy and Remove.](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2014-wollic.pdf)
 >*In  Logic, Language, Information and Computation (WoLLIC), volume 8652 of LNCS, pages 51–65. Springer 2014.*
 
-### <span style="color:darkblue">2013</span>
+### <span style="color:darkblue">2013.</span>
 + C. Areces, **R. Fervari** and G. Hoffmann. [Tableaux for Relation-Changing Modal Logics.](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2013-frocos.pdf)
 >*In Proceedings of  Frontiers of Combining Systems, volume 8152 of LNCS, pages 263–278. Springer, 2013.*
 
 * **R.  Fervari.** [The Impact of Including Model Update Operators in Modal Logics.](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2013-esslli.pdf)
 >*In Pristine Perspectives on Logic, Language, and Computation - ESSLLI 2012 and ESSLLI 2013 Student Sessions. Selected Papers, volume 8607 of LNCS, pages 91–108. Springer 2013.*
 
-### <span style="color:darkblue">2012</span>
+### <span style="color:darkblue">2012.</span>
 * C. Areces, **R. Fervari** and G. Hoffmann. [Moving Arrows and Four Model Checking Results.](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2012-wollic.pdf)
 >*In Logic, Language, Information and Computation (WoLLIC), volume 7456 of LNCS, pages 142–153. Springer 2012.*
