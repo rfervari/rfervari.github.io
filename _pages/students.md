@@ -10,7 +10,7 @@ description: >
 nav: true
 ---
 
-### <span style="color:purple">Current Students</span>
+### <span style="color:darkblue">Current Students</span>
 **Phd Students:**
 
 * Bettina Milanesio  (2021-ongoing, co-supervised with Valentin Cassano). 
@@ -24,7 +24,7 @@ nav: true
 * Dámaris Acevedo Giménez (2020-ongoing, co-supervised with Valentin Cassano).
 > *Tableaux for Default Description Logics (DC - FCEFQyN - UNRC, Argentina).*
 
-### <span style="color:purple">Former Students</span>
+### <span style="color:darkblue">Former Students</span>
 **Master Students:**
 
 * Andrés R. Saravia (2020). 

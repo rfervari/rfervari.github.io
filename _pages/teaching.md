@@ -10,12 +10,12 @@ nav: true
 ---
 
  
-### <span style="color:purple">Current Courses</span>
+### <span style="color:darkblue">Current Courses</span>
 
 * [Introduction to Algorithms (1st year, undergraduate).](https://famaf.aulavirtual.unc.edu.ar/course/view.php?id=698)
 
 
-### <span style="color:purple">Previous Courses at FAMAF-UNC</span>
+### <span style="color:darkblue">Previous Courses at FAMAF-UNC</span>
 
 * [Modern Aspects of Computational Logic (graduate course).](https://classroom.google.com/u/0/w/MTQ4MDEwNTE5NDUy/t/all)
     
@@ -29,7 +29,7 @@ nav: true
 
 * Networks and Distributed Systems (3rd year, undergraduate).
 
-### <span style="color:purple">Invited Courses</span>
+### <span style="color:darkblue">Invited Courses</span>
 
  * Modal Logics for Model Change (with Fernando R. Velázquez-Quesada). ESSLLI 2018, Sofia, Bulgaria.
 
