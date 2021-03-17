@@ -25,7 +25,7 @@ I am Adjoint Researcher (permanent) at [CONICET](https://www.conicet.gov.ar) and
 
 I finished my Phd thesis in 2014 under supervision of [Carlos Areces](https://cs.famaf.unc.edu.ar/~careces) at FAMAF, University of Córdoba, Argentina. The title of my thesis is **Relation-Changing Modal Logics**.
 
-Before that, I received my Master and Bachelor degrees at University of Río Cuarto, Argentina.
+Before that, I received my Master and Bachelor degrees at the [CS Department](https://dc.exa.unrc.edu.ar/), University of Río Cuarto, Argentina.
 
 My interests in research include:
 
@@ -42,6 +42,6 @@ For more info, here is my CV: [**English**](https://cs.famaf.unc.edu.ar/~rfervar
 
 **More:**
 
-* Member of the Logics, Interaction and Intelligent Systems [(LIIS) group](https://liis.famaf.unc.edu.ar), at FAMAF-UNC (Argentina).
+* Member of the Logics, Interaction and Intelligent Systems [(LIIS) group](http://liis.famaf.unc.edu.ar/), at FAMAF-UNC (Argentina).
 
 * Member of the group [Theory of Structured Data](https://sites.google.com/view/theoryofstructureddata-sinfin/) in the [LIA SINFIN](http://www.lia-sinfin.org/).
