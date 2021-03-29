@@ -5,7 +5,8 @@ permalink: /publications/
 order: 2
 # ignore: false
 description: >
-  <p> List of publications in reversed chronological order.</p>
+  <p> List of publications in reversed chronological order.
+  Also, you can check my [DBLP entry](https://dblp.org/pid/117/9953.html)</p>
 years: [2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012]
 nav: true
 
@@ -124,5 +125,5 @@ nav: true
 >*In Pristine Perspectives on Logic, Language, and Computation - ESSLLI 2012 and ESSLLI 2013 Student Sessions. Selected Papers, volume 8607 of LNCS, pages 91–108. Springer 2013.*
 
 ### <span style="color:darkblue">2012.</span>
-* C. Areces, **R. Fervari** and G. Hoffmann. [**Moving Arrows and Four Model Checking Results.](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2012-wollic.pdf)
+* C. Areces, **R. Fervari** and G. Hoffmann. [**Moving Arrows and Four Model Checking Results.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2012-wollic.pdf)
 >*In Logic, Language, Information and Computation (WoLLIC), volume 7456 of LNCS, pages 142–153. Springer 2012.*
