@@ -6,7 +6,7 @@ order: 2
 # ignore: false
 description: >
   <p> List of publications in reversed chronological order.
-  Also, you can check my [DBLP entry](https://dblp.org/pid/117/9953.html)</p>
+  	Also, you can check my <a href="https://dblp.org/pid/117/9953.html">DBLP entry.</a></p>
 years: [2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012]
 nav: true
 
