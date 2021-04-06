@@ -23,7 +23,7 @@ nav: true
 * **R. Fervari**, F. Trucco and B. Ziliani. [**Verification of Dynamic Bisimulation Theorems in Coq.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2021-jlamp.pdf)
 >*Journal of Logical and Algebraic Methods in Programming (JLAMP), volume 120, article 100642, 2021.*
 
-* P. F. Castro, V. Cassano, **R. Fervari** and C. Areces. [**Deontic Action Logics via Algebra.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2020-deon.pdf)
+* P. F. Castro, V. Cassano, **R. Fervari** and C. Areces. [**Deontic Action Logics via Algebra.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2021-deon.pdf)
 >*In Proceedings of 15th International Conference on Deontic Logic and Normative Systems (DEON2020/2021), to appear.*
 
 
