@@ -19,13 +19,13 @@ nav: true
  * [Andrés R. Saravia](https://andresrsaravia.github.io/)  (2020-ongoing). 
 >*Epistemic Logics with Strategies (FAMAF-UNC, Argentina).*
 
-**Master Students:**
-
-* Dámaris Acevedo Giménez (2020-ongoing, co-supervised with Valentin Cassano).
-> *Tableaux for Default Description Logics (DC - FCEFQyN - UNRC, Argentina).*
+***
 
 ### <span style="color:darkblue">Former Students</span>
 **Master Students:**
+
+* Dámaris Acevedo Giménez (2021, co-supervised with Valentin Cassano).
+> *Default Description Logics (DC - FCEFQyN - UNRC, Argentina).*
 
 * Andrés R. Saravia (2020). 
 >*Tableaux Calculus for Elementary Formulae in Separation Logics (FAMAF-UNC, Argentina).*
