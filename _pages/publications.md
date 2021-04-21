@@ -26,7 +26,7 @@ nav: true
 >*Journal of Logical and Algebraic Methods in Programming (JLAMP), volume 120, article 100642, 2021.*
 
 * C. Areces, **R. Fervari**, A. R. Saravia and F. R. Velázquez-Quesada. [**Uncertainty-Based Semantics for Multi-Agent Knowing How Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2021-tark.pdf)
->*In Proceedings of 8th Conference on Theoretical Aspects of Rationality and Knowledge (TARK 2021), to appear.*
+>*In Proceedings of 18th Conference on Theoretical Aspects of Rationality and Knowledge (TARK 2021), to appear.*
 
 * P. F. Castro, V. Cassano, **R. Fervari** and C. Areces. [**Deontic Action Logics via Algebra.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2021-deon.pdf)
 >*In Proceedings of 15th International Conference on Deontic Logic and Normative Systems (DEON2020/2021), to appear.*
@@ -50,7 +50,7 @@ nav: true
 >*Journal of Logical and Algebraic Methods in Programming (JLAMP), volume 108, pages 1-23, 2019.*
 
 * P. F. Castro, V. Cassano, **R. Fervari** and C. Areces. [**An Algebraic Approach for Action Based Default Reasoning.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2019-tark.pdf)
->*In Proceedings of 7th Conference on Theoretical Aspects of Rationality and Knowledge (TARK 2019), pages. 91-105, EPTCS 297, 2019.*
+>*In Proceedings of 17th Conference on Theoretical Aspects of Rationality and Knowledge (TARK 2019), pages. 91-105, EPTCS 297, 2019.*
 
 * V. Cassano, **R. Fervari**, G. Hoffmann, C. Areces and P. F. Castro. [**A Tableaux Calculus for Default Intuitionistic Logic.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2019-cade.pdf)
 >*In Proceedings of 27th International Conference on Automated Deduction (CADE 2019), volume 11716 of LNCS, pages 161-177, Springer 2019.*
