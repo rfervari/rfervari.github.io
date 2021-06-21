@@ -15,6 +15,9 @@ nav: true
 ***
 
 ### <span style="color:darkblue">2021.</span>
+* C. Areces and  **R. Fervari**. [**Axiomatizing Hybrid XPath with Data.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2021-lmcs.pdf) 
+>*Logical Methods in Computer Science, 2021, in press.*
+
 * S. Demri, **R. Fervari** and A. Mansutti. [**Internal Proof Calculi for Modal Logics with Separating Conjunction.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2021-jlc.pdf) 
 >*Journal of Logic and Computation, 2021, in press.*
 
