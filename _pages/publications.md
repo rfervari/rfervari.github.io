@@ -16,14 +16,14 @@ nav: true
 
 ### <span style="color:darkblue">2021.</span>
 * C. Areces and  **R. Fervari**. [**Axiomatizing Hybrid XPath with Data.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2021-lmcs.pdf) 
->*Logical Methods in Computer Science, 2021, in press.*
+>*Logical Methods in Computer Science (LMCS), 2021, in press.*
 
 * S. Demri, **R. Fervari** and A. Mansutti. [**Internal Proof Calculi for Modal Logics with Separating Conjunction.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2021-jlc.pdf) 
->*Journal of Logic and Computation, 2021, in press.*
+>*Journal of Logic and Computation (JLC), 2021, in press.*
 
 
 * **R. Fervari**, F. R. Velázquez-Quesada and Y. Wang. [**Bisimulations for Knowing How Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2021-rsl.pdf)
->*The Review of Symbolic Logic 2021, in press.*
+>*The Review of Symbolic Logic (RSL), 2021, in press.*
 
 * **R. Fervari**, F. Trucco and B. Ziliani. [**Verification of Dynamic Bisimulation Theorems in Coq.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2021-jlamp.pdf)
 >*Journal of Logical and Algebraic Methods in Programming (JLAMP), volume 120, article 100642, 2021.*
@@ -86,10 +86,10 @@ nav: true
 
 ### <span style="color:darkblue">2017.</span>
 * S. Abriola, M. E. Descotte, **R. Fervari** and S. Figueira. [**Axiomatizations for downward XPath on Data Trees.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2017-jcss.pdf)
->*Journal of Computer and System Sciences, volume 89, Pages 209–245, 2017.*
+>*Journal of Computer and System Sciences (JCSS), volume 89, Pages 209–245, 2017.*
 
 * C. Areces, H. van Ditmarsch, **R. Fervari** and F. Schwarzentruber. [**The Modal Logic of Copy and Remove.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2017-ic.pdf)
->*Information and Computation, volume 255, pages 243–261, 2017.*
+>*Information and Computation (IC), volume 255, pages 243–261, 2017.*
 
 * **R. Fervari**, A. Herzig, Y. Li and Y. Wang. [**Strategically Knowing How.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2017-ijcai.pdf)
 >*Proceedings of the 26th International Joint Conference on Artificial Intelligence IJCAI-17, pages 1031–1038, 2017.*
