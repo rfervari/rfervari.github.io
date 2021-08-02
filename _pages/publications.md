@@ -50,7 +50,7 @@ nav: true
 
 ### <span style="color:darkblue">2019.</span>
 * S. Demri and **R. Fervari**. [**The Power of Modal Separation Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2019-jlc.pdf)
->*Journal of Logic and Computation (JLC), volume 29, pages 1139–1184, 2019.*
+>*Journal of Logic and Computation (JLC), volume 29, issue 8, pages 1139–1184, 2019.*
 
 * **R. Fervari** and F. R. Velázquez-Quesada. [**Introspection as an Action in Relational Models.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2019-jlamp.pdf)
 >*Journal of Logical and Algebraic Methods in Programming (JLAMP), volume 108, pages 1-23, 2019.*
@@ -74,7 +74,7 @@ nav: true
 
 ### <span style="color:darkblue">2018.</span>
 * C. Areces, **R. Fervari**, G. Hoffmann and M. Martel. [**Satisfiability for Relation-Changing Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2018-jlc.pdf)
->*Journal of Logic and Computation (JLC), volume 7, pages 1443–1470, 2018.*
+>*Journal of Logic and Computation (JLC), volume 28, issue 7, pages 1443–1470, 2018.*
 
 * S. Demri and **R. Fervari**. [**On the Complexity of Modal Separation Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2018-aiml.pdf)
 >*In Proceedings of Advances in Modal Logics AiML’18, pages 179-198. College Publications, 2018.*
