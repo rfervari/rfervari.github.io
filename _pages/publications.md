@@ -22,7 +22,7 @@ nav: true
 >*Logical Methods in Computer Science (LMCS), volume 17, issue 3, 2021.*
 
 * S. Demri, **R. Fervari** and A. Mansutti. [**Internal Proof Calculi for Modal Logics with Separating Conjunction.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2021-jlc.pdf) 
->*Journal of Logic and Computation (JLC), volume 31, issue 3, pages 832–89, 2021.*
+>*Journal of Logic and Computation (JLC), volume 31, issue 3, pages 832–891, 2021.*
 
 
 * **R. Fervari**, F. R. Velázquez-Quesada and Y. Wang. [**Bisimulations for Knowing How Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2021-rsl.pdf)
