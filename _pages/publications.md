@@ -28,7 +28,6 @@ nav: true
 * S. Demri, **R. Fervari** and A. Mansutti. [**Internal Proof Calculi for Modal Logics with Separating Conjunction.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2021-jlc.pdf) 
 >*Journal of Logic and Computation (JLC), volume 31, issue 3, pages 832–891, 2021.*
 
-
 * **R. Fervari**, F. R. Velázquez-Quesada and Y. Wang. [**Bisimulations for Knowing How Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2021-rsl.pdf)
 >*The Review of Symbolic Logic (RSL), 2021, in press.*
 
@@ -39,7 +38,7 @@ nav: true
 >*In Proceedings of 18th Conference on Theoretical Aspects of Rationality and Knowledge (TARK 2021), pages 23-37, EPTCS 335, 2021.*
 
 * P. F. Castro, V. Cassano, **R. Fervari** and C. Areces. [**Deontic Action Logics via Algebra.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2021-deon.pdf)
->*In Proceedings of 15th International Conference on Deontic Logic and Normative Systems (DEON2020/2021), to appear.*
+>*In Proceedings of 15th International Conference on Deontic Logic and Normative Systems (DEON2020/2021), pages 77-93, College Publications, 2021.*
 
 ***
 
@@ -81,7 +80,7 @@ nav: true
 >*Journal of Logic and Computation (JLC), volume 28, issue 7, pages 1443–1470, 2018.*
 
 * S. Demri and **R. Fervari**. [**On the Complexity of Modal Separation Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2018-aiml.pdf)
->*In Proceedings of Advances in Modal Logics AiML’18, pages 179-198. College Publications, 2018.*
+>*In Proceedings of Advances in Modal Logics AiML’18, pages 179-198, College Publications, 2018.*
 
 * V. Cassano, **R. Fervari**, C. Areces and P. F. Castro. [**Interpolation Results for Default Logic Over Modal Logic.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2018-aiml-short.pdf)
 >*In booklet of short papers of Advances in Modal Logics AiML’18, pages 21-25, 2018.*
