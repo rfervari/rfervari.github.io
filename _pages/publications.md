@@ -18,6 +18,8 @@ nav: true
 * **R. Fervari** and A. Mansutti. [**Modal Logics and Local Quantifiers: A Zoo in the Elementary Hierarchy.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2022-fossacs.pdf) 
 >*In Proceedings of 25th International Conference on Foundations of Software Science and Computation Structures (FoSSaCS 2022), 2022, to appear.*
 
+***
+
 ### <span style="color:darkblue">2021.</span>
 * C. Areces, H. van Ditmarsch, **R. Fervari**, B. Maubert and F. Schwarzentruber. [**Copy and Remove as Dynamic Operators.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2021-jancl.pdf)
 >*Journal of Applied Non-Classical Logics (JANCL), 2021, in press.*
