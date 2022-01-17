@@ -22,7 +22,7 @@ nav: true
 
 ### <span style="color:darkblue">2021.</span>
 * C. Areces, H. van Ditmarsch, **R. Fervari**, B. Maubert and F. Schwarzentruber. [**Copy and Remove as Dynamic Operators.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2021-jancl.pdf)
->*Journal of Applied Non-Classical Logics (JANCL), 2021, in press.*
+>*Journal of Applied Non-Classical Logics (JANCL), volume 31, number 3-4, pages 181-220, 2021.*
 
 * C. Areces and  **R. Fervari**. [**Axiomatizing Hybrid XPath with Data.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2021-lmcs.pdf) 
 >*Logical Methods in Computer Science (LMCS), volume 17, issue 3, 2021.*
