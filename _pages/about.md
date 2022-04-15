@@ -23,7 +23,7 @@ social: true
 
 I am Adjoint Researcher (permanent) at [CONICET](https://www.conicet.gov.ar) and a Professor (tenured) at [FAMAF](https://www.famaf.unc.edu.ar), University of Córdoba (Argentina).
 
-During 2022, I will be also a Visiting Assistant Professor at [Guangdong Technion - GTIIT](https://www.gtiit.edu.cn/en/) (China), teaching remotely on Spring.
+During 2022, I will be also a Visiting Assistant Professor at [Guangdong Technion Institute - GTIIT](https://www.gtiit.edu.cn/en/) (China).
 
 I finished my Phd thesis in 2014 under supervision of [Carlos Areces](https://cs.famaf.unc.edu.ar/~careces) at FAMAF, University of Córdoba, Argentina. The title of my thesis is **Relation-Changing Modal Logics**.
 
@@ -41,7 +41,6 @@ My interests in research include:
 
 
 For more info, here is my CV: [**English**](https://cs.famaf.unc.edu.ar/~rfervari/files/cv/en-cv.pdf)/[**Spanish**](https://cs.famaf.unc.edu.ar/~rfervari/files/cv/sp-cv.pdf)
-
 
 **More:**
 

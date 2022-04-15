@@ -12,7 +12,7 @@ nav: true
  
 ### <span style="color:darkblue">Current Courses</span>
 
-* [Introduction to Algorithms (1st year, undergraduate, FAMAF, Argentina).](https://famaf.aulavirtual.unc.edu.ar/course/view.php?id=698)
+* [Introduction to Algorithms (1st year, undergraduate, FAMAF, Argentina).](https://famaf.aulavirtual.unc.edu.ar/course/view.php?id=914)
 
 * Data Structures I (GTIIT, China).
 
