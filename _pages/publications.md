@@ -16,7 +16,7 @@ nav: true
 
 ### <span style="color:darkblue">2022.</span>
 * **R. Fervari** and A. Mansutti. [**Modal Logics and Local Quantifiers: A Zoo in the Elementary Hierarchy.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2022-fossacs.pdf) 
->*In Proceedings of 25th International Conference on Foundations of Software Science and Computation Structures (FoSSaCS 2022), 2022, to appear.*
+>*In Proceedings of 25th International Conference on Foundations of Software Science and Computation Structures (FoSSaCS 2022), volume 13242 of LNCS, pages 305-324, Springer 2022.*
 
 ***
 
