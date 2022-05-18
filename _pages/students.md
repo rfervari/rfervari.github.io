@@ -13,11 +13,8 @@ nav: true
 ### <span style="color:darkblue">Current Students</span>
 **Phd Students:**
 
-* Juliana Putero (2022-ongoing).
+* Juliana Putero (2022-ongoing, co-supervisor: Valentin Cassano).
 >*Description Logics over Data Graphs (FAMAF-UNC, Argentina).*
-
-* Bettina Milanesio  (2021-ongoing, co-supervised with Valentin Cassano). 
->*Multi-agent Logical Reasoning from Non-omniscient Information (FAMAF-UNC, Argentina).*
 
  * [Andrés R. Saravia](https://andresrsaravia.github.io/)  (2020-ongoing). 
 >*Epistemic Logics with Strategies (FAMAF-UNC, Argentina).*
