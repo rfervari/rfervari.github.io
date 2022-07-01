@@ -15,8 +15,14 @@ nav: true
 ***
 
 ### <span style="color:darkblue">2022.</span>
+* **R. Fervari**, F. R. Velázquez-Quesada and Y. Wang. [**Bisimulations for Knowing How Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2021-rsl.pdf)
+>*The Review of Symbolic Logic (RSL), volume 15, number 2, pages 450-486, 2022.*
+
 * **R. Fervari** and A. Mansutti. [**Modal Logics and Local Quantifiers: A Zoo in the Elementary Hierarchy.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2022-fossacs.pdf) 
 >*In Proceedings of 25th International Conference on Foundations of Software Science and Computation Structures (FoSSaCS 2022), volume 13242 of LNCS, pages 305-324, Springer 2022.*
+
+* C. Areces, V. Cassano and **R. Fervari**. [**Non-monotonic Reasoning via Dynamic Consequence.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2022-wollic.pdf)
+>*In  Logic, Language, Information and Computation (WoLLIC), 2022, to appear.*
 
 ***
 
@@ -29,9 +35,6 @@ nav: true
 
 * S. Demri, **R. Fervari** and A. Mansutti. [**Internal Proof Calculi for Modal Logics with Separating Conjunction.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2021-jlc.pdf) 
 >*Journal of Logic and Computation (JLC), volume 31, issue 3, pages 832–891, 2021.*
-
-* **R. Fervari**, F. R. Velázquez-Quesada and Y. Wang. [**Bisimulations for Knowing How Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2021-rsl.pdf)
->*The Review of Symbolic Logic (RSL), 2021, in press.*
 
 * **R. Fervari**, F. Trucco and B. Ziliani. [**Verification of Dynamic Bisimulation Theorems in Coq.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2021-jlamp.pdf)
 >*Journal of Logical and Algebraic Methods in Programming (JLAMP), volume 120, article 100642, 2021.*
