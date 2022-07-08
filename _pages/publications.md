@@ -24,6 +24,9 @@ nav: true
 * C. Areces, V. Cassano and **R. Fervari**. [**Non-monotonic Reasoning via Dynamic Consequence.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2022-wollic.pdf)
 >*In  Logic, Language, Information and Computation (WoLLIC), 2022, to appear.*
 
+* C. Areces, **R. Fervari**, A. R. Saravia and F. R. Velázquez-Quesada. [**First Steps in Updating Knowing How.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2022-dali.pdf)
+>*DaLí - Dynamic Logic: new trends and applications, Proceedings, LNCS, 2022, to appear.*
+
 ***
 
 ### <span style="color:darkblue">2021.</span>
@@ -52,7 +55,7 @@ nav: true
 >*In Proceedings of the 35th Annual ACM/IEEE Symposium on Logic In Computer Science (LICS'20), 2020. IEEE Press, pages 167–180, 2020.*
 
 * V. Cassano, **R. Fervari**, C. Areces and P. F. Castro. [**Default Modal Systems as Algebraic Updates.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2020-dali.pdf)
->*DaLı́ - Dynamic Logic: new trends and applications, Proceedings, LNCS, volume 12569, pages 103-119, 2020.*
+>*DaLí - Dynamic Logic: new trends and applications, Proceedings, LNCS, volume 12569, pages 103-119, 2020.*
 
 ***
 
@@ -109,7 +112,7 @@ nav: true
 >*DaLí - Dynamic Logic: new trends and applications, Proceedings, LNCS, volume 10669, pages 82–97, 2017.*
 
 * C. Areces, **R. Fervari**, G. Hoffmann and M. Martel. [**Undecidability of Relation-Changing Modal Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2017-dali2.pdf)
->*DaLı́ - Dynamic Logic: new trends and applications, Proceedings, LNCS, volume 10669, pages 1–16, 2017.*
+>*DaLí - Dynamic Logic: new trends and applications, Proceedings, LNCS, volume 10669, pages 1–16, 2017.*
 
 * C. Areces, **R. Fervari**  and N. Seiler. [**Tableaux for Hybrid XPath with Data.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2017-epia.pdf)
 >*In Progress in Artificial Intelligence - 18th EPIA Conference on Artificial Intelligence, EPIA 2017, LNCS, volume 10423, pages 611–623, Springer 2017.*
