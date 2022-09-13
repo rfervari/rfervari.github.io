@@ -21,7 +21,7 @@ social: true
 
 **Who I am.**
 
-I am Adjoint Researcher (permanent) at [CONICET](https://www.conicet.gov.ar) and a Professor (tenured) at [FAMAF](https://www.famaf.unc.edu.ar), University of Córdoba (Argentina).
+I am Adjoint Researcher (permanent) at [CONICET](https://www.conicet.gov.ar) and an Associate Professor (tenured) at [FAMAF](https://www.famaf.unc.edu.ar), University of Córdoba (Argentina).
 
 Currently, I am also a Visiting Associate Professor at [Guangdong Technion Institute - GTIIT](https://www.gtiit.edu.cn/en/) (China).
 
