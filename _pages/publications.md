@@ -25,7 +25,7 @@ nav: true
 >*In Proceedings of 25th International Conference on Foundations of Software Science and Computation Structures (FoSSaCS 2022), volume 13242 of LNCS, pages 305-324, Springer 2022.*
 
 * C. Areces, V. Cassano and **R. Fervari**. [**Non-monotonic Reasoning via Dynamic Consequence.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2022-wollic.pdf)
->*In  Logic, Language, Information and Computation (WoLLIC), 2022, to appear.*
+>*In  Logic, Language, Information and Computation (WoLLIC), volume 13468 of LNCS, pages 395–410. Springer 2022.*
 
 * C. Areces, **R. Fervari**, A. R. Saravia and F. R. Velázquez-Quesada. [**First Steps in Updating Knowing How.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2022-dali.pdf)
 >*DaLí - Dynamic Logic: new trends and applications, Proceedings, LNCS, 2022, to appear.*

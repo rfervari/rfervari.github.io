@@ -12,9 +12,12 @@ nav: true
  
 ### <span style="color:darkblue">Current Courses</span>
 
-* [Introduction to Algorithms (1st year, undergraduate, FAMAF, Argentina).](https://famaf.aulavirtual.unc.edu.ar/course/view.php?id=914)
 
 * Data Structures I (GTIIT, China).
+
+* Extended Preparatory MCS Course (GTIIT, China).
+
+* [Introduction to Algorithms (1st year, undergraduate, FAMAF, Argentina).](https://famaf.aulavirtual.unc.edu.ar/course/view.php?id=914)
 
 
 ### <span style="color:darkblue">Previous Courses at FAMAF-UNC</span>
