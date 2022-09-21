@@ -15,6 +15,9 @@ nav: true
 ***
 
 ### <span style="color:darkblue">2022.</span>
+* B. Bednarczyk, S. Demri, **R. Fervari** and A. Mansutti. [**On Composing Finite Forests with Modal Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2022-tocl.pdf) 
+>*ACM Transactions on Computational Logic (ToCL), 2022, in press.*
+
 * **R. Fervari**, F. R. Velázquez-Quesada and Y. Wang. [**Bisimulations for Knowing How Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2021-rsl.pdf)
 >*The Review of Symbolic Logic (RSL), volume 15, number 2, pages 450-486, 2022.*
 
