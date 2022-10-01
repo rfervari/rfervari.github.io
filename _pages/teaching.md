@@ -4,7 +4,7 @@ title: teaching
 permalink: /teaching/
 order: 3
 # ignore: false
-description: I am Professor (tenured, in Spanish Profesor Asociado) at FAMAF-UNC (Argentina), and a Visiting Assistant Professor at GTIIT (China), during 2022. These are some of my recent teaching activities.
+description: I am Professor (tenured, in Spanish Profesor Asociado) at FAMAF-UNC (Argentina), and a Visiting Assistant Professor at GTIIT (China), during 2022-2023. These are some of my recent teaching activities.
 
 nav: true
 ---
@@ -14,6 +14,8 @@ nav: true
 
 
 * Data Structures I (GTIIT, China).
+
+* Theory of Compilation (Reading course, GTTITm China).
 
 * Extended Preparatory MCS Course (GTIIT, China).
 
