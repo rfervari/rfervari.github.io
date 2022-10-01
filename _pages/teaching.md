@@ -15,7 +15,7 @@ nav: true
 
 * Data Structures I (GTIIT, China).
 
-* Theory of Compilation (Reading course, GTTITm China).
+* Theory of Compilation (Reading course, GTTIT, China).
 
 * Extended Preparatory MCS Course (GTIIT, China).
 
