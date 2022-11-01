@@ -13,6 +13,8 @@ nav: true
 ### <span style="color:darkblue">Current Courses</span>
 
 
+* Mathematical Logic (Reading course, GTIIT, China).
+
 * Data Structures I (GTIIT, China).
 
 * Theory of Compilation (Reading course, GTIIT, China).
