@@ -13,6 +13,9 @@ nav: true
 ---
 
 ***
+### <span style="color:darkblue">2023.</span>
+* S. Demri and **R. Fervari**. [**Model-Checking for Ability-Based Logics with Constrained Plans.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2023-aaai.pdf) 
+>*Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI-23), 2023, to appear.*
 
 ### <span style="color:darkblue">2022.</span>
 * B. Bednarczyk, S. Demri, **R. Fervari** and A. Mansutti. [**On Composing Finite Forests with Modal Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2022-tocl.pdf) 
