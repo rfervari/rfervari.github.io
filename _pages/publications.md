@@ -17,6 +17,9 @@ nav: true
 * S. Demri and **R. Fervari**. [**Model-Checking for Ability-Based Logics with Constrained Plans.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2023-aaai.pdf) 
 >*Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI-23), 2023, to appear.*
 
+* C. Areces, V. Cassano, P. F. Castro, **R. Fervari** and A. R. Saravia. [**A Deontic Logic of Knowingly Complying.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2023-aamas.pdf) 
+>*Proceedings of the 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023), 2023, to appear.*
+
 ### <span style="color:darkblue">2022.</span>
 * B. Bednarczyk, S. Demri, **R. Fervari** and A. Mansutti. [**On Composing Finite Forests with Modal Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2022-tocl.pdf) 
 >*ACM Transactions on Computational Logic (ToCL), 2022, in press.*
