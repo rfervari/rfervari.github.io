@@ -10,21 +10,20 @@ nav: true
 ---
 
  
-### <span style="color:darkblue">Current Courses</span>
+### <span style="color:darkblue">Current Courses (2023)</span>
+
+* Mathematical Logic (GTIIT, China).
+
+* [Introduction to Algorithms (1st year, undergraduate, FAMAF, Argentina).](https://famaf.aulavirtual.unc.edu.ar/course/view.php?id=914)
 
 
-* Mathematical Logic (Reading course, GTIIT, China).
+### <span style="color:darkblue">Previous Courses at FAMAF-UNC</span>
 
 * Data Structures I (GTIIT, China).
 
 * Theory of Compilation (Reading course, GTIIT, China).
 
 * Extended Preparatory MCS Course (GTIIT, China).
-
-* [Introduction to Algorithms (1st year, undergraduate, FAMAF, Argentina).](https://famaf.aulavirtual.unc.edu.ar/course/view.php?id=914)
-
-
-### <span style="color:darkblue">Previous Courses at FAMAF-UNC</span>
 
 * [Modern Aspects of Computational Logic (graduate course).](https://classroom.google.com/u/0/w/MTQ4MDEwNTE5NDUy/t/all)
     
