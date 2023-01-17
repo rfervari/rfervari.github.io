@@ -8,7 +8,6 @@ description: I am Professor (tenured, in Spanish Profesor Asociado) at FAMAF-UNC
 
 nav: true
 ---
-
  
 ### <span style="color:darkblue">Current Courses (2023)</span>
 
@@ -18,12 +17,6 @@ nav: true
 
 
 ### <span style="color:darkblue">Previous Courses at FAMAF-UNC</span>
-
-* Data Structures I (GTIIT, China).
-
-* Theory of Compilation (Reading course, GTIIT, China).
-
-* Extended Preparatory MCS Course (GTIIT, China).
 
 * [Modern Aspects of Computational Logic (graduate course).](https://classroom.google.com/u/0/w/MTQ4MDEwNTE5NDUy/t/all)
     
@@ -39,12 +32,18 @@ nav: true
 
 ### <span style="color:darkblue">Invited Courses</span>
 
- * Modal Logics for Model Change (with Fernando R. Velázquez-Quesada). ESSLLI 2018, Sofia, Bulgaria.
+* Data Structures I (GTIIT, China).
 
- * Introduction to Intelligent Problem Solving Techniques for Planning, Scheduling and Execution. IG, CONAE, Argentina (for the Master in Space Information), 2018, 2020.
+* Theory of Compilation (Reading course, GTIIT, China).
 
- * Introduction to Computational Complexity (graduate).  FFHA-UNSJ, Argentina, 2016.
+* Extended Preparatory MCS Course (GTIIT, China).
 
- * Logics (A Modern Perspective), (with Carlos Areces). Summer School RIO 2016, Río Cuarto, Argentina.
+* Modal Logics for Model Change (with Fernando R. Velázquez-Quesada). ESSLLI 2018, Sofia, Bulgaria.
 
- * Logics: A Dynamic Perspective. ESSLLI 2015, Barcelona, Spain.
+* Introduction to Intelligent Problem Solving Techniques for Planning, Scheduling and Execution. IG, CONAE, Argentina (for the Master in Space Information), 2018, 2020.
+
+* Introduction to Computational Complexity (graduate).  FFHA-UNSJ, Argentina, 2016.
+
+* Logics (A Modern Perspective), (with Carlos Areces). Summer School RIO 2016, Río Cuarto, Argentina.
+
+* Logics: A Dynamic Perspective. ESSLLI 2015, Barcelona, Spain.
