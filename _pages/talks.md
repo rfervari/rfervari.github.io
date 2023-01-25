@@ -9,6 +9,9 @@ description: >
 nav: true
 ---
 
+* [**Logic in AI: the case of strategic reasoning.**](https://cs.famaf.unc.edu.ar/~rfervari/files/talks/2022-gtiit.pdf)
+>*MCS colloquium, Guangdong Technion - Israel Institue of Technology (GTIIT), Shantou, China, 2022.*
+
 * [**Mechanizing Bisimulation Theorems for Relation-Changing Logics in Coq.**](https://cs.famaf.unc.edu.ar/~rfervari/files/talks/2019-dali.pdf)
 >*2nd Workshop Dynamic Logic : new trends and applications (DALI 2019), Porto, Portugal, 2019.*
 
