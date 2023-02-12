@@ -8,6 +8,8 @@ description: >
 
 nav: true
 ---
+* [**Model-Checking for Ability-Based Logics with Constrained Plans.**](https://cs.famaf.unc.edu.ar/~rfervari/files/talks/2023-aaai.pdf) ([video](https://cs.famaf.unc.edu.ar/~rfervari/files/talks/2023-aaai-video.pdf))
+>*37th AAAI Conference on Artificial Intelligence (AAAI-23), Washington DC, USA (online), 2023.*
 
 * [**Logic in AI: the case of strategic reasoning.**](https://cs.famaf.unc.edu.ar/~rfervari/files/talks/2022-gtiit.pdf)
 >*MCS colloquium, Guangdong Technion - Israel Institue of Technology (GTIIT), Shantou, China, 2022.*
