@@ -14,6 +14,9 @@ nav: true
 
 ***
 ### <span style="color:darkblue">2023.</span>
+* B. Bednarczyk, S. Demri, **R. Fervari** and A. Mansutti. [**On Composing Finite Forests with Modal Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2023-tocl.pdf) 
+>*ACM Transactions on Computational Logic (ToCL), Volume 24, Issue 2, Article No. 12, pp 1–46, 2023.*
+
 * S. Demri and **R. Fervari**. [**Model-Checking for Ability-Based Logics with Constrained Plans.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2023-aaai.pdf) 
 >*Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI-23), 2023, to appear.*
 
@@ -21,9 +24,6 @@ nav: true
 >*Proceedings of the 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023), 2023, to appear.*
 
 ### <span style="color:darkblue">2022.</span>
-* B. Bednarczyk, S. Demri, **R. Fervari** and A. Mansutti. [**On Composing Finite Forests with Modal Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2022-tocl.pdf) 
->*ACM Transactions on Computational Logic (ToCL), 2022, in press.*
-
 * **R. Fervari**, F. R. Velázquez-Quesada and Y. Wang. [**Bisimulations for Knowing How Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2021-rsl.pdf)
 >*The Review of Symbolic Logic (RSL), volume 15, number 2, pages 450-486, 2022.*
 
