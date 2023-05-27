@@ -21,7 +21,7 @@ nav: true
 >*Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI-23), 2023, to appear.*
 
 * C. Areces, V. Cassano, P. F. Castro, **R. Fervari** and A. R. Saravia. [**A Deontic Logic of Knowingly Complying.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2023-aamas.pdf) 
->*Proceedings of the 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023), 2023, to appear.*
+>*Proceedings of the 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023), pages 364-372, ACM 2023.*
 
 ### <span style="color:darkblue">2022.</span>
 * **R. Fervari**, F. R. Velázquez-Quesada and Y. Wang. [**Bisimulations for Knowing How Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2021-rsl.pdf)
