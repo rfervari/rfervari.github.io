@@ -21,7 +21,7 @@ social: true
 
 **Who I am.**
 
-I am Adjoint Researcher (permanent) at [CONICET](https://www.conicet.gov.ar) and an Associate Professor (tenured) at [FAMAF](https://www.famaf.unc.edu.ar), University of Córdoba (Argentina).
+I am Adjoint Researcher (permanent) at [CONICET](https://www.conicet.gov.ar) and an Associate Professor (tenured) at [FAMAF](https://www.famaf.unc.edu.ar), University of Córdoba (Argentina). Also, I am the Team Leader (Argentinean side) of the [Theory of Structured Data](https://sites.google.com/view/theoryofstructureddata-sinfin/home/) of the French-Argentinean [LIA SINFIN](http://www.lia-sinfin.org/).
 
 Currently, I am also a Visiting Assistant Professor at [Guangdong Technion Institute - GTIIT](https://www.gtiit.edu.cn/en/) (China).
 
