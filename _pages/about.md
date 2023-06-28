@@ -46,4 +46,4 @@ For more info, here is my CV: [**English**](https://cs.famaf.unc.edu.ar/~rfervar
 
 * Member of the Logics, Interaction and Intelligent Systems [(LIIS) group](http://liis.famaf.unc.edu.ar/), at FAMAF-UNC (Argentina).
 
-* Member of the group [Theory of Structured Data](https://sites.google.com/view/theoryofstructureddata-sinfin/) in the [LIA SINFIN](http://www.lia-sinfin.org/).
+* Team Leader (Arg. side) of the group [Theory of Structured Data](https://sites.google.com/view/theoryofstructureddata-sinfin/) in the [LIA SINFIN](http://www.lia-sinfin.org/).
