@@ -9,14 +9,13 @@ description: I am Professor (tenured, in Spanish Profesor Asociado) at FAMAF-UNC
 nav: true
 ---
  
-### <span style="color:darkblue">Current Courses (2023)</span>
+### <span style="color:darkblue">Current Courses</span>
 
 Currently, I have no teaching duties.
 
 
 ### <span style="color:darkblue">Previous Courses at FAMAF-UNC</span>
 
-* Mathematical Logic (GTIIT, China).
 
 * [Introduction to Algorithms (1st year, undergraduate, FAMAF, Argentina).](https://famaf.aulavirtual.unc.edu.ar/course/view.php?id=914)
 
@@ -33,6 +32,8 @@ Currently, I have no teaching duties.
 * Networks and Distributed Systems (3rd year, undergraduate).
 
 ### <span style="color:darkblue">Invited Courses</span>
+
+* Mathematical Logic (GTIIT, China).
 
 * Data Structures I (GTIIT, China).
 
