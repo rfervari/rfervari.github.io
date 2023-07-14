@@ -11,12 +11,14 @@ nav: true
  
 ### <span style="color:darkblue">Current Courses (2023)</span>
 
-* Mathematical Logic (GTIIT, China).
-
-* [Introduction to Algorithms (1st year, undergraduate, FAMAF, Argentina).](https://famaf.aulavirtual.unc.edu.ar/course/view.php?id=914)
+Currently, I have no teaching duties.
 
 
 ### <span style="color:darkblue">Previous Courses at FAMAF-UNC</span>
+
+* Mathematical Logic (GTIIT, China).
+
+* [Introduction to Algorithms (1st year, undergraduate, FAMAF, Argentina).](https://famaf.aulavirtual.unc.edu.ar/course/view.php?id=914)
 
 * [Modern Aspects of Computational Logic (graduate course).](https://classroom.google.com/u/0/w/MTQ4MDEwNTE5NDUy/t/all)
     
