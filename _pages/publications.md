@@ -23,6 +23,16 @@ nav: true
 * C. Areces, V. Cassano, P. F. Castro, **R. Fervari** and A. R. Saravia. [**A Deontic Logic of Knowingly Complying.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2023-aamas.pdf) 
 >*Proceedings of the 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023), pages 364-372, ACM 2023.*
 
+* C. Areces V. Cassano, **R. Fervari**, G. Hoffmann. [**DefTab: A Tableaux System for Sceptical Consequence in Default Modal Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2023-tableaux.pdf)
+>*Proceedings of the 32nd International Conference on
+Automated Reasoning with Analytic Tableaux and Related Methods (TABLEAUX 2023), to appear.*
+
+* C. Areces, V. Cassano, P. F. Castro, **R. Fervari**, A. R. Saravia. [**How Easy it is to Know How: An Upper Bound for the Satisfiability Problem.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2023-jelia1.pdf)
+>*In Proceedings of the 18th European Conference on Logics in Artificial Intelligence (JELIA 2023), to appear.*
+
+* C. Areces, V. Cassano, D. Dutto, **R. Fervari**. [**Data Graphs with Incomplete Information (and a Way to Complete Them).**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2023-jelia2.pdf)
+>*In Proceedings of the 18th European Conference on Logics in Artificial Intelligence (JELIA 2023), to appear.*
+
 ### <span style="color:darkblue">2022.</span>
 * **R. Fervari**, F. R. Velázquez-Quesada and Y. Wang. [**Bisimulations for Knowing How Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2021-rsl.pdf)
 >*The Review of Symbolic Logic (RSL), volume 15, number 2, pages 450-486, 2022.*
