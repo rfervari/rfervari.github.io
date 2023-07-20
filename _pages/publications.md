@@ -34,7 +34,7 @@ Automated Reasoning with Analytic Tableaux and Related Methods (TABLEAUX 2023), 
 >*In Proceedings of the 18th European Conference on Logics in Artificial Intelligence (JELIA 2023), to appear.*
 
 ### <span style="color:darkblue">2022.</span>
-* **R. Fervari**, F. R. Velázquez-Quesada and Y. Wang. [**Bisimulations for Knowing How Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2021-rsl.pdf)
+* **R. Fervari**, F. R. Velázquez-Quesada and Y. Wang. [**Bisimulations for Knowing How Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2022-rsl.pdf)
 >*The Review of Symbolic Logic (RSL), volume 15, number 2, pages 450-486, 2022.*
 
 * V. Cassano, **R. Fervari**, C. Areces and P. F. Castro. [**Algebraic Tools for Default Modal Systems.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2022-jlc.pdf) 
