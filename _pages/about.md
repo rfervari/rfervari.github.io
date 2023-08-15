@@ -23,11 +23,11 @@ social: true
 
 I am Adjoint Researcher (permanent) at [CONICET](https://www.conicet.gov.ar) and an Associate Professor (tenured) at [FAMAF](https://www.famaf.unc.edu.ar), University of Córdoba (Argentina). Also, I am the Team Leader (Argentinean side) of the [Theory of Structured Data](https://sites.google.com/view/theoryofstructureddata-sinfin/home/) of the French-Argentinean [LIA SINFIN](http://www.lia-sinfin.org/).
 
-Currently, I am also a Visiting Assistant Professor at [Guangdong Technion Institute - GTIIT](https://www.gtiit.edu.cn/en/) (China).
+I have been a Visiting Assistant Professor at [Guangdong Technion Institute - GTIIT](https://www.gtiit.edu.cn/en/) (China), between 2022 and 2023.
 
-I finished my Phd thesis in 2014 under supervision of [Carlos Areces](https://cs.famaf.unc.edu.ar/~careces) at FAMAF, University of Córdoba, Argentina. The title of my thesis is **Relation-Changing Modal Logics**.
+Before that, I finished my Phd thesis in 2014 under supervision of [Carlos Areces](https://cs.famaf.unc.edu.ar/~careces) at FAMAF, University of Córdoba, Argentina. The title of my thesis is **Relation-Changing Modal Logics**.
 
-Before that, I received my Master and Bachelor degrees at the [CS Department](https://dc.exa.unrc.edu.ar/), University of Río Cuarto, Argentina.
+Even before, I received my Master and Bachelor degrees at the [CS Department](https://dc.exa.unrc.edu.ar/), University of Río Cuarto, Argentina.
 
 My interests in research include:
 
