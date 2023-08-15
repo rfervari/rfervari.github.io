@@ -5,4 +5,4 @@ inline: true
 ---
 
 
-Our paper **Uncertainty-Based Knowing How Logics** in collaboration with C. Areces, A. Saravia and F. Velázquez-Quesada was accepted for publication at [Journal of Logic and Computation.](https://academic.oup.com/logcom)
+Our paper **Uncertainty-Based Knowing How Logic** in collaboration with C. Areces, A. Saravia and F. Velázquez-Quesada was accepted for publication at [Journal of Logic and Computation.](https://academic.oup.com/logcom)
