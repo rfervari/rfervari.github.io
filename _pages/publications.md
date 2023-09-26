@@ -30,10 +30,10 @@ nav: true
 >*In Proceedings of the 32nd International Conference on Automated Reasoning with Analytic Tableaux and Related Methods (TABLEAUX 2023), volume 14278 of LNCS, pages 37-48, Springer 2023.*
 
 * C. Areces, V. Cassano, P. F. Castro, **R. Fervari**, A. R. Saravia. [**How Easy it is to Know How: An Upper Bound for the Satisfiability Problem.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2023-jelia1.pdf)
->*In Proceedings of the 18th European Conference on Logics in Artificial Intelligence (JELIA 2023), to appear.*
+>*In Proceedings of the 18th European Conference on Logics in Artificial Intelligence (JELIA 2023), volume 14281 of LNCS, pages 405-419, Springer 2023.*
 
 * C. Areces, V. Cassano, D. Dutto, **R. Fervari**. [**Data Graphs with Incomplete Information (and a Way to Complete Them).**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2023-jelia2.pdf)
->*In Proceedings of the 18th European Conference on Logics in Artificial Intelligence (JELIA 2023), to appear.*
+>*In Proceedings of the 18th European Conference on Logics in Artificial Intelligence (JELIA 2023), volume 14281 of LNCS, pages 729-744, Springer 2023.*
 
 ### <span style="color:darkblue">2022.</span>
 * **R. Fervari**, F. R. Velázquez-Quesada and Y. Wang. [**Bisimulations for Knowing How Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2022-rsl.pdf)
