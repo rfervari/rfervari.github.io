@@ -17,6 +17,9 @@ nav: true
 * B. Bednarczyk, S. Demri, **R. Fervari** and A. Mansutti. [**On Composing Finite Forests with Modal Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2023-tocl.pdf) 
 >*ACM Transactions on Computational Logic (ToCL), Volume 24, Issue 2, Article No. 12, pp 1–46, 2023.*
 
+* V. Cassano, **R. Fervari**, C. Areces and P. F. Castro. [**Algebraic Tools for Default Modal Systems.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2022-jlc.pdf) 
+>*Journal of Logic and Computation (JLC), volume 33, issue 6, pages 1301-1325, 2023.*
+
 * C. Areces, **R. Fervari**, A. R. Saravia and F. R. Velázquez-Quesada. [**Uncertainty-Based Knowing How Logic.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2023-jlc.pdf)
 >*Journal of Logic and Computation (JLC), 2023, in press.*
 
@@ -38,9 +41,6 @@ nav: true
 ### <span style="color:darkblue">2022.</span>
 * **R. Fervari**, F. R. Velázquez-Quesada and Y. Wang. [**Bisimulations for Knowing How Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2022-rsl.pdf)
 >*The Review of Symbolic Logic (RSL), volume 15, number 2, pages 450-486, 2022.*
-
-* V. Cassano, **R. Fervari**, C. Areces and P. F. Castro. [**Algebraic Tools for Default Modal Systems.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2022-jlc.pdf) 
->*Journal of Logic and Computation (JLC), volume 33, issue 6, pages 1301-1325, 2023.*
 
 * **R. Fervari** and A. Mansutti. [**Modal Logics and Local Quantifiers: A Zoo in the Elementary Hierarchy.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2022-fossacs.pdf) 
 >*In Proceedings of 25th International Conference on Foundations of Software Science and Computation Structures (FoSSaCS 2022), volume 13242 of LNCS, pages 305-324, Springer 2022.*
