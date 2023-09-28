@@ -17,7 +17,7 @@ nav: true
 >*Description Logics over Data Graphs (FAMAF-UNC, Argentina).*
 
  * [Andrés R. Saravia](https://andresrsaravia.github.io/)  (2020-ongoing). 
->*Epistemic Logics with Strategies (FAMAF-UNC, Argentina).*
+>*Ability-Based Epistemic Logics (FAMAF-UNC, Argentina).*
 
 ***
 
