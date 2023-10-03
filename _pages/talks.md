@@ -9,7 +9,7 @@ description: >
 nav: true
 ---
 * [**Updating Knowing How.**](https://cs.famaf.unc.edu.ar/~rfervari/files/talks/2023-lmf.pdf) 
->*Formal Methods for Artificial Intelligence Working Group, Laboratoire Méthodes Formelles (LMF), Université Paris-Saclay, 2023.*
+>*Formal Methods for Artificial Intelligence Working Group, Laboratoire Méthodes Formelles (LMF), Université Paris-Saclay, France, 2023.*
 
 * [**Model-Checking for Ability-Based Logics with Constrained Plans.**](https://cs.famaf.unc.edu.ar/~rfervari/files/talks/2023-aaai.pdf) ([video](https://cs.famaf.unc.edu.ar/~rfervari/files/talks/2023-aaai-video.mp4))
 >*37th AAAI Conference on Artificial Intelligence (AAAI-23), Washington DC, USA (online), 2023.*
