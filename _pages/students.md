@@ -19,6 +19,11 @@ nav: true
  * [Andrés R. Saravia](https://andresrsaravia.github.io/)  (2020-ongoing). 
 >*Ability-Based Epistemic Logics (FAMAF-UNC, Argentina).*
 
+**Undergrad Students:**
+
+ * [Ziqi Wang]  (20203-ongoing). 
+>*Axiomatizing Ability-Based Logics with Regularity Constraints (GTIIT, China).*
+
 ***
 
 ### <span style="color:darkblue">Former Students</span>
