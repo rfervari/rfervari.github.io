@@ -21,7 +21,7 @@ nav: true
 
 **Undergrad Students:**
 
- * [Ziqi Wang]()  (2023-ongoing). 
+ * Ziqi Wang  (2023-ongoing). 
 >*Axiomatizing Ability-Based Logics with Regularity Constraints (GTIIT, China).*
 
 ***
