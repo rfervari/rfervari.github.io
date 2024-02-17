@@ -11,7 +11,7 @@ nav: true
 ---
 
 ### <span style="color:darkblue">Current Students</span>
-**Phd Students:**
+**PhD Students:**
 
 * [Juliana Putero](https://julianaputero.github.io/) (2022-ongoing, co-supervisor: Valentin Cassano).
 >*Description Logics over Data Graphs (FAMAF-UNC, Argentina).*
@@ -19,15 +19,14 @@ nav: true
  * [Andrés R. Saravia](https://andresrsaravia.github.io/)  (2020-ongoing). 
 >*Ability-Based Epistemic Logics (FAMAF-UNC, Argentina).*
 
-**Undergrad Students:**
-
- * Ziqi Wang  (2023-ongoing). 
->*Axiomatizing Ability-Based Logics with Regularity Constraints (GTIIT, China).*
 
 ***
 
 ### <span style="color:darkblue">Former Students</span>
-**Master Students:**
+**Master/UGrad Students:**
+
+* Ziqi Wang (2024). 
+>*Axiomatizing Ability-Based Logics with Regularity Constraints (GTIIT, China).*
 
 * Dámaris Acevedo Giménez (2021, co-supervised with Valentin Cassano).
 > *Default Description Logics (DC - FCEFQyN - UNRC, Argentina).*
