@@ -4,7 +4,7 @@ title: teaching
 permalink: /teaching/
 order: 3
 # ignore: false
-description: I am Professor (tenured, in Spanish Profesor Asociado) at FAMAF-UNC (Argentina), and a Visiting Assistant Professor at GTIIT (China), during 2022-2023. These are some of my recent teaching activities.
+description: I am Professor (tenured, in Spanish Profesor Asociado) at FAMAF-UNC (Argentina). These are some of my recent teaching activities.
 
 nav: true
 ---
@@ -16,6 +16,7 @@ Currently, I have no teaching duties.
 
 ### <span style="color:darkblue">Previous Courses at FAMAF-UNC</span>
 
+* [Dynamic Modal Logics, (with Carlos Areces).](https://carlosareces.github.io/rio24/) Summer School RIO 2024, Río Cuarto, Argentina.
 
 * [Introduction to Algorithms (1st year, undergraduate, FAMAF, Argentina).](https://famaf.aulavirtual.unc.edu.ar/course/view.php?id=914)
 
