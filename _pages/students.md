@@ -18,7 +18,7 @@ I am currently looking for motivated candidates. Please send me an email if you 
 ### <span style="color:darkblue">Former Students</span>
 **PhD Students:**
 
- * [Andrés R. Saravia](https://andresrsaravia.github.io/)  (2020-ongoing). 
+ * [Andrés R. Saravia](https://andresrsaravia.github.io/)  (2024). 
 >*Ability-Based Epistemic Logics (FAMAF-UNC, Argentina).*
 
 
