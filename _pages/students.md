@@ -11,18 +11,17 @@ nav: true
 ---
 
 ### <span style="color:darkblue">Current Students</span>
-**PhD Students:**
+I am currently looking for motivated candidates. Please send me an email if you are interested!
 
-* [Juliana Putero](https://julianaputero.github.io/) (2022-ongoing, co-supervisor: Valentin Cassano).
->*Description Logics over Data Graphs (FAMAF-UNC, Argentina).*
+***
+
+### <span style="color:darkblue">Former Students</span>
+**PhD Students:**
 
  * [Andrés R. Saravia](https://andresrsaravia.github.io/)  (2020-ongoing). 
 >*Ability-Based Epistemic Logics (FAMAF-UNC, Argentina).*
 
 
-***
-
-### <span style="color:darkblue">Former Students</span>
 **Master/UGrad Students:**
 
 * Ziqi Wang (2024). 
