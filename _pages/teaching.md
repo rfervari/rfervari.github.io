@@ -16,8 +16,6 @@ Currently, I have no teaching duties.
 
 ### <span style="color:darkblue">Previous Courses at FAMAF-UNC</span>
 
-* [Dynamic Modal Logics, (with Carlos Areces).](https://carlosareces.github.io/rio24/) Summer School RIO 2024, Río Cuarto, Argentina.
-
 * [Introduction to Algorithms (1st year, undergraduate, FAMAF, Argentina).](https://famaf.aulavirtual.unc.edu.ar/course/view.php?id=914)
 
 * [Modern Aspects of Computational Logic (graduate course).](https://classroom.google.com/u/0/w/MTQ4MDEwNTE5NDUy/t/all)
@@ -34,6 +32,8 @@ Currently, I have no teaching duties.
 
 ### <span style="color:darkblue">Invited Courses</span>
 
+* [Dynamic Modal Logics (with Carlos Areces).](https://carlosareces.github.io/rio24/) Summer School RIO 2024, Río Cuarto, Argentina.
+
 * Mathematical Logic (GTIIT, China).
 
 * Data Structures I (GTIIT, China).
@@ -48,6 +48,6 @@ Currently, I have no teaching duties.
 
 * Introduction to Computational Complexity (graduate).  FFHA-UNSJ, Argentina, 2016.
 
-* Logics (A Modern Perspective), (with Carlos Areces). Summer School RIO 2016, Río Cuarto, Argentina.
+* Logics (A Modern Perspective) (with Carlos Areces). Summer School RIO 2016, Río Cuarto, Argentina.
 
 * Logics: A Dynamic Perspective. ESSLLI 2015, Barcelona, Spain.
