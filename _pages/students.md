@@ -12,6 +12,10 @@ nav: true
 
 ### <span style="color:darkblue">Current Students</span>
 I am currently looking for motivated candidates. Please send me an email if you are interested!
+**Master/UGrad Students:**
+
+* Leonardo Torres (2024-ongoing). 
+>*Advanced Modle Theory for Path Predicate Modla Logic (FAMAF-UNC, Argentina).*
 
 ***
 
