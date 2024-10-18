@@ -14,7 +14,7 @@ nav: true
 
 ***
 ### <span style="color:darkblue">2024.</span>
-* **R. Fervari** and B. Icard. [**Arbitrary Radical Upgrades.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2023-reactsa.pdf) 
+* **R. Fervari** and B. Icard. [**Arbitrary Radical Upgrades.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2024-reacts.pdf) 
 >*International Workshop on Reconfigurable Transition Systems: Semantics, Logics and Applications (ReacTS'24), to appear.*
 
 ### <span style="color:darkblue">2023.</span>
