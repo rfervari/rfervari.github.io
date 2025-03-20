@@ -18,7 +18,7 @@ nav: true
 >*Journal of Logic and Computation (JLC), volume 35, issue 1, pages 1-35, 2025.*
 
 * **R. Fervari**, M. Martins, R. Kahle, G. Pluck, J. Proença (editors).
-[**Software Engineering and Formal Methods. SEFM 2024 Collocated Workshops.**]
+**Software Engineering and Formal Methods. SEFM 2024 Collocated Workshops.**
 >*Lecture Notes in Computer Science, Springer, 2025, to appear.*
 
 ### <span style="color:darkblue">2024.</span>
