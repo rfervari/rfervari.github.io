@@ -11,12 +11,9 @@ nav: true
  
 ### <span style="color:darkblue">Current Courses</span>
 
-Currently, I have no teaching duties.
-
+* [Introduction to Algorithms (1st year, undergraduate, FAMAF, Argentina).](https://famaf.aulavirtual.unc.edu.ar/course/view.php?id=472)
 
 ### <span style="color:darkblue">Previous Courses at FAMAF-UNC</span>
-
-* [Introduction to Algorithms (1st year, undergraduate, FAMAF, Argentina).](https://famaf.aulavirtual.unc.edu.ar/course/view.php?id=914)
 
 * [Modern Aspects of Computational Logic (graduate course).](https://classroom.google.com/u/0/w/MTQ4MDEwNTE5NDUy/t/all)
     

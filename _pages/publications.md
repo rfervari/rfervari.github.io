@@ -13,6 +13,14 @@ nav: true
 ---
 
 ***
+### <span style="color:darkblue">2025.</span>
+* C. Areces, **R. Fervari**, A. R. Saravia and F. R. Velázquez-Quesada. [**Uncertainty-Based Knowing How Logic.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2023-jlc.pdf)
+>*Journal of Logic and Computation (JLC), volume 35, issue 1, pages 1-35, 2025.*
+
+* **R. Fervari**, M. Martins, R. Kahle, G. Pluck, J. Proença (editors).
+[**Software Engineering and Formal Methods. SEFM 2024 Collocated Workshops.**]
+>*Lecture Notes in Computer Science, Springer, 2025, to appear.*
+
 ### <span style="color:darkblue">2024.</span>
 * **R. Fervari** and B. Icard. [**Arbitrary Radical Upgrades.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2024-reacts.pdf) 
 >*International Workshop on Reconfigurable Transition Systems: Semantics, Logics and Applications (ReacTS'24), to appear.*
@@ -23,9 +31,6 @@ nav: true
 
 * V. Cassano, **R. Fervari**, C. Areces and P. F. Castro. [**Algebraic Tools for Default Modal Systems.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2022-jlc.pdf) 
 >*Journal of Logic and Computation (JLC), volume 33, issue 6, pages 1301-1325, 2023.*
-
-* C. Areces, **R. Fervari**, A. R. Saravia and F. R. Velázquez-Quesada. [**Uncertainty-Based Knowing How Logic.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2023-jlc.pdf)
->*Journal of Logic and Computation (JLC), 2023, in press.*
 
 * S. Demri and **R. Fervari**. [**Model-Checking for Ability-Based Logics with Constrained Plans.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2023-aaai.pdf) 
 >*Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI-23), volume 37, number 5, pages 6305-6312, 2023.*

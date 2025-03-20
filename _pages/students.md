@@ -15,8 +15,8 @@ I am currently looking for motivated candidates. Please send me an email if you 
 
 **Master/UGrad Students:**
 
-* Leonardo Torres (2024-ongoing). 
->*Advanced Model Theory for Path Predicate Modal Logic (FAMAF-UNC, Argentina).*
+* Antonio Mondejar (2025-ongoing). 
+>*Bisimulation Algorithms for Knowing How (FAMAF-UNC, Argentina).*
 
 ***
 
@@ -28,6 +28,9 @@ I am currently looking for motivated candidates. Please send me an email if you 
 
 
 **Master/UGrad Students:**
+
+* Leonardo Torres Villegas (2025). 
+>*Advanced Model Theory for Path Predicate Modal Logic (FAMAF-UNC, Argentina).*
 
 * Ziqi Wang (2024). 
 >*Axiomatizing Ability-Based Logics with Regularity Constraints (GTIIT, China).*
