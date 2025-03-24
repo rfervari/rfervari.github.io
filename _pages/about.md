@@ -44,7 +44,7 @@ For more info, here is my CV: [**English**](https://cs.famaf.unc.edu.ar/~rfervar
 
 **Current services:**
 
-* Head of the Doctoral Program at [FAMAF](https://www.famaf.unc.edu.ar), University of Córdoba (Argentina).
+* Head of the CS Doctoral Program at [FAMAF](https://www.famaf.unc.edu.ar), University of Córdoba (Argentina).
 
 * Coordinator (Alternate) of the Informatics and Communications Commission for promotions, admissions and annual reports at [CONICET](https://www.conicet.gov.ar), Argentina.
 
