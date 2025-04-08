@@ -29,7 +29,7 @@ I am currently looking for motivated candidates. Please send me an email if you 
 
 **Master/UGrad Students:**
 
-* Leonardo Torres Villegas (2025). 
+* Leonardo Torres Villegas (2025, co-supervised with Santiago Figueira). 
 >*Model Theory for Path Predicate Modal Logic (FAMAF-UNC, Argentina).*
 
 * Ziqi Wang (2024). 
