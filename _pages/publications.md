@@ -18,8 +18,11 @@ nav: true
 >*Journal of Logic and Computation (JLC), volume 35, issue 1, pages 1-35, 2025.*
 
 * J. Proença, **R. Fervari**, M. Martins, R. Kahle, G. Pluck (editors).
-[**Software Engineering and Formal Methods. SEFM 2024 Collocated Workshops.**]()
+[**Software Engineering and Formal Methods. SEFM 2024 Collocated Workshops.**](https://link.springer.com/book/9783031947476)
 >*Lecture Notes in Computer Science, Springer, 2025, to appear.*
+
+* **R. Fervari**, D. Figueiredo and Manuel A. Martins. [**Graded Relation Updates in Modal Logic.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2025-wollic.pdf)
+>*In  Logic, Language, Information and Computation (WoLLIC), 2025, to appear.*
 
 ### <span style="color:darkblue">2024.</span>
 * **R. Fervari** and B. Icard. [**Arbitrary Radical Upgrades.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2024-reacts.pdf) 
