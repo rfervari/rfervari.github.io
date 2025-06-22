@@ -23,7 +23,10 @@ social: true
 
 I am Researcher (category Independent) at [CONICET](https://www.conicet.gov.ar) and an Associate Professor (tenured) at [FAMAF](https://www.famaf.unc.edu.ar), University of Córdoba (Argentina). Also, I am the Team Leader (Argentinean side) of the [Theory of Structured Data](https://sites.google.com/view/theoryofstructureddata-sinfin/home/) of the French-Argentinean [LIA SINFIN](http://www.irp-sinfin.org).
 
-Currently I am also a Visiting Associate Professor at [Guangdong Technion Institute - GTIIT](https://www.gtiit.edu.cn/en/) (China) in 2025, (before Visiting Assistant Professor between 2022 and 2023).
+I currently hold the Jean D'Alembert Research Chair at the [Laboratoire Méthodes Formelles (LMF)](https://lmf.cnrs.fr/) from [Université Paris Saclay](https://www.universite-paris-saclay.fr/) (France), during my sabbatical in 2025.
+
+
+I have been a Visiting Associate Professor at [Guangdong Technion Institute - GTIIT](https://www.gtiit.edu.cn/en/) (China) in Spring 2025, and a Visiting Assistant Professor in 2022-2023.
 
 Before that, I finished my Phd thesis in 2014 under supervision of [Carlos Areces](https://cs.famaf.unc.edu.ar/~careces) at FAMAF, University of Córdoba, Argentina. The title of my thesis is **Relation-Changing Modal Logics**.
 
