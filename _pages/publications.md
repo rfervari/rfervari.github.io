@@ -17,14 +17,14 @@ nav: true
 * C. Areces, **R. Fervari**, A. R. Saravia and F. R. Velázquez-Quesada. [**Uncertainty-Based Knowing How Logic.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2023-jlc.pdf)
 >*Journal of Logic and Computation (JLC), volume 35, issue 1, pages 1-35, 2025.*
 
-* J. Proença, **R. Fervari**, M. Martins, R. Kahle, G. Pluck (editors).
+* J. Proença, **R. Fervari**, M. Martins, R. Kahle and G. Pluck (editors).
 [**Software Engineering and Formal Methods. SEFM 2024 Collocated Workshops.**](https://link.springer.com/book/9783031947476)
 >*Lecture Notes in Computer Science, Springer, 2025, to appear.*
 
 * **R. Fervari**, D. Figueiredo and Manuel A. Martins. [**Graded Relation Updates in Modal Logic.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2025-wollic.pdf)
 >*In  Logic, Language, Information and Computation (WoLLIC), 2025, to appear.*
 
-* C. Areces, V. Cassano, D. Dutto, **R. Fervari**. [**Sequent Calculi for Data-Aware Modal Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2025-lsfa.pdf)
+* C. Areces, V. Cassano, D. Dutto and **R. Fervari**. [**Sequent Calculi for Data-Aware Modal Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2025-lsfa.pdf)
 >*In 20th International Symposium on Logical and Semantic Frameworks, with Applications (LSFA 2025), to appear.*
 
 ### <span style="color:darkblue">2024.</span>
@@ -44,13 +44,13 @@ nav: true
 * C. Areces, V. Cassano, P. F. Castro, **R. Fervari** and A. R. Saravia. [**A Deontic Logic of Knowingly Complying.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2023-aamas.pdf) 
 >*Proceedings of the 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023), pages 364-372, ACM 2023.*
 
-* C. Areces, V. Cassano, **R. Fervari**, G. Hoffmann. [**DefTab: A Tableaux System for Sceptical Consequence in Default Modal Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2023-tableaux.pdf)
+* C. Areces, V. Cassano, **R. Fervari** and G. Hoffmann. [**DefTab: A Tableaux System for Sceptical Consequence in Default Modal Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2023-tableaux.pdf)
 >*In Proceedings of the 32nd International Conference on Automated Reasoning with Analytic Tableaux and Related Methods (TABLEAUX 2023), volume 14278 of LNCS, pages 37-48, Springer 2023.*
 
-* C. Areces, V. Cassano, P. F. Castro, **R. Fervari**, A. R. Saravia. [**How Easy it is to Know How: An Upper Bound for the Satisfiability Problem.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2023-jelia1.pdf)
+* C. Areces, V. Cassano, P. F. Castro, **R. Fervari** and A. R. Saravia. [**How Easy it is to Know How: An Upper Bound for the Satisfiability Problem.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2023-jelia1.pdf)
 >*In Proceedings of the 18th European Conference on Logics in Artificial Intelligence (JELIA 2023), volume 14281 of LNCS, pages 405-419, Springer 2023.*
 
-* C. Areces, V. Cassano, D. Dutto, **R. Fervari**. [**Data Graphs with Incomplete Information (and a Way to Complete Them).**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2023-jelia2.pdf)
+* C. Areces, V. Cassano, D. Dutto and **R. Fervari**. [**Data Graphs with Incomplete Information (and a Way to Complete Them).**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2023-jelia2.pdf)
 >*In Proceedings of the 18th European Conference on Logics in Artificial Intelligence (JELIA 2023), volume 14281 of LNCS, pages 729-744, Springer 2023.*
 
 ### <span style="color:darkblue">2022.</span>
@@ -132,7 +132,7 @@ nav: true
 * V. Cassano, **R. Fervari**, C. Areces and P. F. Castro. [**Interpolation Results for Default Logic Over Modal Logic.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2018-aiml-short.pdf)
 >*In booklet of short papers of Advances in Modal Logics AiML’18, pages 21-25, 2018.*
 
-* C. Areces, L. Benotti, J. J. Cortez Sánchez, **R. Fervari**, E. García, M. Gómez, M.C. Martínez, C. M. Onetti, E.S. Rodríguez Pesce  and N. Wolovick.  [**Ciencias de la computación para el aula: 2do. ciclo de primaria.**](https://program.ar/manual-segundo-ciclo-primaria/)
+* C. Areces, L. Benotti, J. J. Cortez Sánchez, **R. Fervari**, E. García, M. Gómez, M.C. Martínez, C. M. Onetti, E.S. Rodríguez Pesce and N. Wolovick.  [**Ciencias de la computación para el aula: 2do. ciclo de primaria.**](https://program.ar/manual-segundo-ciclo-primaria/)
 >*(Book in CS for elementary school, in spanish). Colihue, 2018. ISBN 978-987-27416-5-5.*
 
 ***
