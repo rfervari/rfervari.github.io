@@ -4,7 +4,7 @@ title: teaching
 permalink: /teaching/
 order: 3
 # ignore: false
-description: I am Professor (tenured, in Spanish Profesor Asociado) at FAMAF-UNC (Argentina). These are some of my recent teaching activities.
+description: I am an Associate Professor (tenured, in Spanish Profesor Asociado) at FAMAF-UNC (Argentina). These are some of my recent teaching activities.
 
 nav: true
 ---
