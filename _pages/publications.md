@@ -24,6 +24,9 @@ nav: true
 * **R. Fervari**, D. Figueiredo and Manuel A. Martins. [**Graded Relation Updates in Modal Logic.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2025-wollic.pdf)
 >*In  Logic, Language, Information and Computation (WoLLIC), 2025, to appear.*
 
+* C. Areces, V. Cassano, D. Dutto, **R. Fervari**. [**Sequent Calculi for Data-Aware Modal Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2025-lsfa.pdf)
+>*In 20th International Symposium on Logical and Semantic Frameworks, with Applications (LSFA 2025), to appear.*
+
 ### <span style="color:darkblue">2024.</span>
 * **R. Fervari** and B. Icard. [**Arbitrary Radical Upgrades.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2024-reacts.pdf) 
 >*International Workshop on Reconfigurable Transition Systems: Semantics, Logics and Applications (ReacTS'24), to appear.*
