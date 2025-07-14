@@ -13,6 +13,10 @@ nav: true
 ### <span style="color:darkblue">Current Students</span>
 I am currently looking for motivated candidates. Please send me an email if you are interested!
 
+**Postdocs:**
+* Ignacio Scarinci (2025-2028, co-supervised with Mauro Valente).
+>*Design and Implementation of a Blockchain-Based System for the Efficient Management of Digital Medical Records in Radiotherapy (FAMAF-UNC, Argentina).*
+
 **Master/UGrad Students:**
 
 * Antonio Mondejar (2025-ongoing). 
