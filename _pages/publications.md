@@ -23,15 +23,15 @@ nav: true
 * P. F. Castro, P. R. D'Argenio and **R. Fervari**. [**How Lucky Are You to Know Your Way? A Probabilistic Approach to Knowing How Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2025-kr2.pdf) 
 >*Proceedings of the 22nd International Conference on Principles of Knowledge Representation and Reasoning (KR 2025), to appear.*
 
-* J. Proença, **R. Fervari**, M. Martins, R. Kahle and G. Pluck (editors).
-[**Software Engineering and Formal Methods. SEFM 2024 Collocated Workshops.**](https://link.springer.com/book/9783031947476)
->*Lecture Notes in Computer Science, Springer, 2025, to appear.*
-
 * **R. Fervari**, D. Figueiredo and Manuel A. Martins. [**Graded Relation Updates in Modal Logic.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2025-wollic.pdf)
 >*In  Logic, Language, Information and Computation (WoLLIC), 2025, to appear.*
 
 * C. Areces, V. Cassano, D. Dutto and **R. Fervari**. [**Sequent Calculi for Data-Aware Modal Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2025-lsfa.pdf)
 >*In 20th International Symposium on Logical and Semantic Frameworks, with Applications (LSFA 2025), to appear.*
+
+* J. Proença, **R. Fervari**, M. Martins, R. Kahle and G. Pluck (editors).
+[**Software Engineering and Formal Methods. SEFM 2024 Collocated Workshops.**](https://link.springer.com/book/9783031947476)
+>*Lecture Notes in Computer Science, Springer, 2025, to appear.*
 
 ### <span style="color:darkblue">2024.</span>
 * **R. Fervari** and B. Icard. [**Arbitrary Radical Upgrades.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2024-reacts.pdf) 
