@@ -17,6 +17,12 @@ nav: true
 * C. Areces, **R. Fervari**, A. R. Saravia and F. R. Velázquez-Quesada. [**Uncertainty-Based Knowing How Logic.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2023-jlc.pdf)
 >*Journal of Logic and Computation (JLC), volume 35, issue 1, pages 1-35, 2025.*
 
+* S. Demri and **R. Fervari**. [**On the Effects of Adding Assignments in Linear-Time Temporal Logics Modulo Theories.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2025-kr1.pdf) 
+>*Proceedings of the 22nd International Conference on Principles of Knowledge Representation and Reasoning (KR 2025), to appear.*
+
+* P. F. Castro, P. R. D'Argenio and **R. Fervari**. [**How Lucky Are You to Know Your Way? A Probabilistic Approach to Knowing How Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2025-kr2.pdf) 
+>*Proceedings of the 22nd International Conference on Principles of Knowledge Representation and Reasoning (KR 2025), to appear.*
+
 * J. Proença, **R. Fervari**, M. Martins, R. Kahle and G. Pluck (editors).
 [**Software Engineering and Formal Methods. SEFM 2024 Collocated Workshops.**](https://link.springer.com/book/9783031947476)
 >*Lecture Notes in Computer Science, Springer, 2025, to appear.*
