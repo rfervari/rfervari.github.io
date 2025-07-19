@@ -18,11 +18,10 @@ nav: true
 >*Journal of Logic and Computation (JLC), volume 35, issue 1, pages 1-35, 2025.*
 
 * S. Demri and **R. Fervari**. [**On the Effects of Adding Assignments in Linear-Time Temporal Logics Modulo Theories.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2025-kr1.pdf) 
->*Proceedings of the 22nd International Conference on Principles of Knowledge Representation and Reasoning (KR 2025), to appear.*
+>*In Proceedings of the 22nd International Conference on Principles of Knowledge Representation and Reasoning (KR 2025), to appear.*
 
 * P. F. Castro, P. R. D'Argenio and **R. Fervari**. [**How Lucky Are You to Know Your Way? A Probabilistic Approach to Knowing How Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2025-kr2.pdf) 
->*Proceedings of the 22nd International Conference on Principles of Knowledge Representation and Reasoning 
->(KR 2025), to appear.*
+>*In Proceedings of the 22nd International Conference on Principles of Knowledge Representation and Reasoning (KR 2025), to appear.*
 
 * **R. Fervari**, D. Figueiredo and Manuel A. Martins. [**Graded Relation Updates in Modal Logic.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2025-wollic.pdf)
 >*In Logic, Language, Information and Computation (WoLLIC), 2025, to appear.*
@@ -46,10 +45,10 @@ nav: true
 >*Journal of Logic and Computation (JLC), volume 33, issue 6, pages 1301-1325, 2023.*
 
 * S. Demri and **R. Fervari**. [**Model-Checking for Ability-Based Logics with Constrained Plans.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2023-aaai.pdf) 
->*Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI-23), volume 37, number 5, pages 6305-6312, 2023.*
+>*In Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI-23), volume 37, number 5, pages 6305-6312, 2023.*
 
 * C. Areces, V. Cassano, P. F. Castro, **R. Fervari** and A. R. Saravia. [**A Deontic Logic of Knowingly Complying.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2023-aamas.pdf) 
->*Proceedings of the 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023), pages 364-372, ACM 2023.*
+>*In Proceedings of the 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023), pages 364-372, ACM 2023.*
 
 * C. Areces, V. Cassano, **R. Fervari** and G. Hoffmann. [**DefTab: A Tableaux System for Sceptical Consequence in Default Modal Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2023-tableaux.pdf)
 >*In Proceedings of the 32nd International Conference on Automated Reasoning with Analytic Tableaux and Related Methods (TABLEAUX 2023), volume 14278 of LNCS, pages 37-48, Springer 2023.*
