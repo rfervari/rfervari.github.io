@@ -26,6 +26,9 @@ nav: true
 * **R. Fervari**, D. Figueiredo and Manuel A. Martins. [**Graded Relation Updates in Modal Logic.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2025-wollic.pdf)
 >*In  Logic, Language, Information and Computation (WoLLIC), volume 15942 of LNCS, pages 278–292. Springer 2025.*
 
+* S. Demri, L. Doyen  and **R. Fervari**. [**Knowing-How Reasoning with Budgets Recasted: Universal Reachability Problem on VASS.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2025-rp.pdf)
+>*In 19th International Conference on Reachability Problems (RP 2025), to appear.*
+
 * C. Areces, V. Cassano, D. Dutto and **R. Fervari**. [**Sequent Calculi for Data-Aware Modal Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2025-lsfa.pdf)
 >*In 20th International Symposium on Logical and Semantic Frameworks, with Applications (LSFA 2025), to appear.*
 
