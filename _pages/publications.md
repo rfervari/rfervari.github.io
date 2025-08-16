@@ -32,13 +32,13 @@ nav: true
 * C. Areces, V. Cassano, D. Dutto and **R. Fervari**. [**Sequent Calculi for Data-Aware Modal Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2025-lsfa.pdf)
 >*In 20th International Symposium on Logical and Semantic Frameworks, with Applications (LSFA 2025), to appear.*
 
-* J. Proença, **R. Fervari**, M. Martins, R. Kahle and G. Pluck (editors).
-[**Software Engineering and Formal Methods. SEFM 2024 Collocated Workshops.**](https://link.springer.com/book/9783031947476)
->*Lecture Notes in Computer Science, Springer, 2025, to appear.*
-
 ### <span style="color:darkblue">2024.</span>
 * **R. Fervari** and B. Icard. [**Arbitrary Radical Upgrades.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2024-reacts.pdf) 
 >*International Workshop on Reconfigurable Transition Systems: Semantics, Logics and Applications (ReacTS'24),  SEFM 2024 Collocated Workshops, vol 15551 of LNCS, pages 36-49. Springer 2024*
+
+* J. Proença, **R. Fervari**, M. Martins, R. Kahle and G. Pluck (editors).
+[**Software Engineering and Formal Methods. SEFM 2024 Collocated Workshops.**](https://link.springer.com/book/9783031947476)
+>*ReacTS 2024 and CIFMA 2024, Aveiro, Portugal, November 4–5, 2024, Revised Selected Papers, volume 15551 of LNCS, Springer, 2024.*
 
 ### <span style="color:darkblue">2023.</span>
 * B. Bednarczyk, S. Demri, **R. Fervari** and A. Mansutti. [**On Composing Finite Forests with Modal Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2023-tocl.pdf) 
