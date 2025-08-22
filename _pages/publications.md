@@ -13,6 +13,9 @@ nav: true
 ---
 
 ***
+### <span style="color:darkblue">2026.</span>
+
+
 ### <span style="color:darkblue">2025.</span>
 * C. Areces, **R. Fervari**, A. R. Saravia and F. R. Velázquez-Quesada. [**Uncertainty-Based Knowing How Logic.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2023-jlc.pdf)
 >*Journal of Logic and Computation (JLC), volume 35, issue 1, pages 1-35, 2025.*
