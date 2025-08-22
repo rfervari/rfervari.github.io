@@ -13,7 +13,7 @@ nav: true
 ---
 
 ***
-### <span style="color:darkblue">2025.</span>
+### <span style="color:darkblue">2026.</span>
 * J. Proença, **R. Fervari**, M. Martins, R. Kahle and G. Pluck (editors).
 [**Software Engineering and Formal Methods. SEFM 2024 Collocated Workshops.**](https://link.springer.com/book/9783031947476)
 >*ReacTS 2024 and CIFMA 2024, Aveiro, Portugal, November 4–5, 2024, Revised Selected Papers, volume 15551 of LNCS, Springer, 2026.*
