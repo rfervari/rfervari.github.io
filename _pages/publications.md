@@ -37,9 +37,13 @@ nav: true
 * C. Areces, V. Cassano, D. Dutto and **R. Fervari**. [**Sequent Calculi for Data-Aware Modal Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2025-lsfa.pdf)
 >*In 20th International Symposium on Logical and Semantic Frameworks, with Applications (LSFA 2025), to appear.*
 
+* **R. Fervari**, D. Figueiredo and Manuel A. Martins. [**Probabilistic Relation-Changing Operators.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2025-reacts.pdf) 
+>*2nd International Workshop on Reconfigurable Transition Systems: Semantics, Logics and Applications (ReacTS'25),  SEFM 2025 Collocated Workshops, to appear.*
+
+
 ### <span style="color:darkblue">2024.</span>
 * **R. Fervari** and B. Icard. [**Arbitrary Radical Upgrades.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2024-reacts.pdf) 
->*International Workshop on Reconfigurable Transition Systems: Semantics, Logics and Applications (ReacTS'24),  SEFM 2024 Collocated Workshops, vol 15551 of LNCS, pages 36-49. Springer 2024.*
+>*1st International Workshop on Reconfigurable Transition Systems: Semantics, Logics and Applications (ReacTS'24),  SEFM 2024 Collocated Workshops, vol 15551 of LNCS, pages 36-49. Springer 2024.*
 
 ### <span style="color:darkblue">2023.</span>
 * B. Bednarczyk, S. Demri, **R. Fervari** and A. Mansutti. [**On Composing Finite Forests with Modal Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2023-tocl.pdf) 
