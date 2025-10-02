@@ -8,6 +8,9 @@ description: >
 
 nav: true
 ---
+* [**Knowing-How Reasoning with Budgets Recasted: Universal Reachability Problem on VASS.**](https://cs.famaf.unc.edu.ar/~rfervari/files/talks/2025-rp.pdf) 
+>*19th International Conference on Reachability Problems, Madrid, Spain, 2025.*
+
 * [**Updating Knowing How.**](https://cs.famaf.unc.edu.ar/~rfervari/files/talks/2023-lmf.pdf) 
 >*Formal Methods for Artificial Intelligence Working Group, Laboratoire Méthodes Formelles (LMF), Université Paris-Saclay, France, 2023.*
 
