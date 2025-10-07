@@ -14,7 +14,7 @@ nav: true
 
 ***
 ### <span style="color:darkblue">2026.</span>
-* J. Proença, **R. Fervari**, M. Martins, R. Kahle and G. Pluck (editors).
+* J. Proença, **R. Fervari**, M. A. Martins, R. Kahle and G. Pluck (editors).
 [**Software Engineering and Formal Methods. SEFM 2024 Collocated Workshops.**](https://link.springer.com/book/9783031947476)
 >*ReacTS 2024 and CIFMA 2024, Aveiro, Portugal, November 4–5, 2024, Revised Selected Papers, volume 15551 of LNCS, Springer, 2026.*
 
@@ -28,7 +28,7 @@ nav: true
 * P. F. Castro, P. R. D'Argenio and **R. Fervari**. [**How Lucky Are You to Know Your Way? A Probabilistic Approach to Knowing How Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2025-kr2.pdf) 
 >*In Proceedings of the 22nd International Conference on Principles of Knowledge Representation and Reasoning (KR 2025), to appear.*
 
-* **R. Fervari**, D. Figueiredo and Manuel A. Martins. [**Graded Relation Updates in Modal Logic.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2025-wollic.pdf)
+* **R. Fervari**, D. Figueiredo and M. A. Martins. [**Graded Relation Updates in Modal Logic.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2025-wollic.pdf)
 >*In  Logic, Language, Information and Computation (WoLLIC), volume 15942 of LNCS, pages 278–292. Springer 2025.*
 
 * S. Demri, L. Doyen  and **R. Fervari**. [**Knowing-How Reasoning with Budgets Recasted: Universal Reachability Problem on VASS.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2025-rp.pdf)
@@ -37,7 +37,7 @@ nav: true
 * C. Areces, V. Cassano, D. Dutto and **R. Fervari**. [**Sequent Calculi for Data-Aware Modal Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2025-lsfa.pdf)
 >*In 20th International Symposium on Logical and Semantic Frameworks, with Applications (LSFA 2025), to appear.*
 
-* **R. Fervari**, D. Figueiredo and Manuel A. Martins. [**Probabilistic Relation-Changing Operators.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2025-reacts.pdf) 
+* **R. Fervari**, D. Figueiredo and M. A. Martins. [**Probabilistic Relation-Changing Operators.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2025-reacts.pdf) 
 >*2nd International Workshop on Reconfigurable Transition Systems: Semantics, Logics and Applications (ReacTS'25),  SEFM 2025 Collocated Workshops, to appear.*
 
 
