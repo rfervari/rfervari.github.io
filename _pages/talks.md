@@ -8,6 +8,9 @@ description: >
 
 nav: true
 ---
+* [**Reasoning with Constrained Ability-Based Logics: From Tractability to Ack-completeness.**](https://cs.famaf.unc.edu.ar/~rfervari/files/talks/2025-lai-bergen.pdf) 
+>*Logic and AI seminar, Universitetet i Bergen, Norway, 2025.*
+
 * [**Knowing-How Reasoning with Budgets Recasted: Universal Reachability Problem on VASS.**](https://cs.famaf.unc.edu.ar/~rfervari/files/talks/2025-rp.pdf) 
 >*19th International Conference on Reachability Problems, Madrid, Spain, 2025.*
 
