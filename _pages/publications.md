@@ -35,7 +35,7 @@ nav: true
 >*In 19th International Conference on Reachability Problems (RP 2025), to appear.*
 
 * C. Areces, V. Cassano, D. Dutto and **R. Fervari**. [**Sequent Calculi for Data-Aware Modal Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2025-lsfa.pdf)
->*In 20th International Symposium on Logical and Semantic Frameworks, with Applications (LSFA 2025), to appear.*
+>*In 20th International Symposium on Logical and Semantic Frameworks, with Applications (LSFA 2025), pages 8-35, EPTCS 430, 2025.*
 
 * **R. Fervari**, D. Figueiredo and M. A. Martins. [**Probabilistic Relation-Changing Operators.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2025-reacts.pdf) 
 >*2nd International Workshop on Reconfigurable Transition Systems: Semantics, Logics and Applications (ReacTS'25),  SEFM 2025 Collocated Workshops, to appear.*
