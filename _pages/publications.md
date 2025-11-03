@@ -14,6 +14,13 @@ nav: true
 
 ***
 ### <span style="color:darkblue">2026.</span>
+
+* C. Areces, V. Cassano and **R. Fervari**. [**Data-Aware Hybrid Tableaux.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2026-lmcs.pdf) 
+>*Logical Methods in Computer Science (LMCS), to appear.*
+
+* C. Areces, V. Cassano, P. F. Castro and **R. Fervari**. [**Deontic Action Logics: An Algebraic Modular Perspective.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2026-jlli-2.pdf) 
+>*Journal of Logic, Language and Information (JLLI), to appear.*
+
 * J. Proença, **R. Fervari**, M. A. Martins, R. Kahle and G. Pluck (editors).
 [**Software Engineering and Formal Methods. SEFM 2024 Collocated Workshops.**](https://link.springer.com/book/9783031947476)
 >*ReacTS 2024 and CIFMA 2024, Aveiro, Portugal, November 4–5, 2024, Revised Selected Papers, volume 15551 of LNCS, Springer, 2026.*
