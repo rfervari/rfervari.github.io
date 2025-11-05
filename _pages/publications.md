@@ -30,10 +30,10 @@ nav: true
 >*Journal of Logic and Computation (JLC), volume 35, issue 1, pages 1-35, 2025.*
 
 * S. Demri and **R. Fervari**. [**On the Effects of Adding Assignments in Linear-Time Temporal Logics Modulo Theories.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2025-kr1.pdf) 
->*In Proceedings of the 22nd International Conference on Principles of Knowledge Representation and Reasoning (KR 2025), pages 260–270, ijcai.org, 2025.*
+>*In Proceedings of the 22nd International Conference on Principles of Knowledge Representation and Reasoning (KR 2025), pages 260–270. 2025.*
 
 * P. F. Castro, P. R. D'Argenio and **R. Fervari**. [**How Lucky Are You to Know Your Way? A Probabilistic Approach to Knowing How Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2025-kr2.pdf) 
->*In Proceedings of the 22nd International Conference on Principles of Knowledge Representation and Reasoning (KR 2025), pages 229-239, ijcai.org, 2025.*
+>*In Proceedings of the 22nd International Conference on Principles of Knowledge Representation and Reasoning (KR 2025), pages 229-239. 2025.*
 
 * **R. Fervari**, D. Figueiredo and M. A. Martins. [**Graded Relation Updates in Modal Logic.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2025-wollic.pdf)
 >*In  Logic, Language, Information and Computation (WoLLIC), volume 15942 of LNCS, pages 278–292. Springer 2025.*
@@ -50,7 +50,7 @@ nav: true
 
 ### <span style="color:darkblue">2024.</span>
 * **R. Fervari** and B. Icard. [**Arbitrary Radical Upgrades.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2024-reacts.pdf) 
->*1st International Workshop on Reconfigurable Transition Systems: Semantics, Logics and Applications (ReacTS'24),  SEFM 2024 Collocated Workshops, vol 15551 of LNCS, pages 36-49. Springer 2024.*
+>*1st International Workshop on Reconfigurable Transition Systems: Semantics, Logics and Applications (ReacTS'24),  SEFM 2024 Collocated Workshops, volume 15551 of LNCS, pages 36-49. Springer 2024.*
 
 ### <span style="color:darkblue">2023.</span>
 * B. Bednarczyk, S. Demri, **R. Fervari** and A. Mansutti. [**On Composing Finite Forests with Modal Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2023-tocl.pdf) 
