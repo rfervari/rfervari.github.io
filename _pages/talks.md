@@ -8,6 +8,12 @@ description: >
 
 nav: true
 ---
+* [**On the Effects of Adding Assignments in Linear-Time Temporal Logics Modulo Theories.**](https://cs.famaf.unc.edu.ar/~rfervari/files/talks/2025-kr1.pdf) 
+>*22nd International Conference on Principles of Knowledge Representation and Reasoning (KR 2025), Melbourne, Australia, 2025.*
+
+* [**How Lucky Are You to Know Your Way? A Probabilistic Approach to Knowing How Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/talks/2025-kr2.pdf) 
+>*22nd International Conference on Principles of Knowledge Representation and Reasoning (KR 2025), Melbourne, Australia, 2025.*
+
 * [**Reasoning with Constrained Ability-Based Logics: From Tractability to Ack-completeness.**](https://cs.famaf.unc.edu.ar/~rfervari/files/talks/2025-lai-bergen.pdf) 
 >*Logic and AI seminar, Universitetet i Bergen, Norway, 2025.*
 
