@@ -43,7 +43,7 @@ nav: true
 >*In  Logic, Language, Information and Computation (WoLLIC), volume 15942 of LNCS, pages 278–292. Springer 2025.*
 
 * S. Demri, L. Doyen  and **R. Fervari**. [**Knowing-How Reasoning with Budgets Recasted: Universal Reachability Problem on VASS.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2025-rp.pdf)
->*In 19th International Conference on Reachability Problems (RP 2025), volune 16230 of LNCS, pages 140-155. Springer 2025.*
+>*In 19th International Conference on Reachability Problems (RP 2025), volume 16230 of LNCS, pages 140-155. Springer 2025.*
 
 * C. Areces, V. Cassano, D. Dutto and **R. Fervari**. [**Sequent Calculi for Data-Aware Modal Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2025-lsfa.pdf)
 >*In 20th International Symposium on Logical and Semantic Frameworks, with Applications (LSFA 2025), pages 8-25, EPTCS 430, 2025.*
