@@ -18,6 +18,10 @@ nav: true
 * C. Areces, V. Cassano and **R. Fervari**. [**Data-Aware Hybrid Tableaux.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2026-lmcs.pdf) 
 >*Logical Methods in Computer Science (LMCS), to appear.*
 
+* C. Areces, **R. Fervari**, A. R. Saravia and F. R. Velázquez-Quesada. [**The Dynamics of Knowing How.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2026-jlli-1.pdf) 
+>*Journal of Logic, Language and Information (JLLI), to appear.*
+
+
 * C. Areces, V. Cassano, P. F. Castro and **R. Fervari**. [**Deontic Action Logics: An Algebraic Modular Perspective.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2026-jlli-2.pdf) 
 >*Journal of Logic, Language and Information (JLLI), to appear.*
 
