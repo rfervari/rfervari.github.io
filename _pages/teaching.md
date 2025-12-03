@@ -13,10 +13,10 @@ nav: true
 
 * [Introduction to Algorithms (1st year, undergraduate, FAMAF, Argentina).](https://famaf.aulavirtual.unc.edu.ar/course/view.php?id=472)
 
-* Theory of Compilation, GTIIT, China.
-
 
 ### <span style="color:darkblue">Previous Courses at FAMAF-UNC</span>
+
+* Theory of Compilation, GTIIT, China.
 
 * [Modern Aspects of Computational Logic (graduate course).](https://classroom.google.com/u/0/w/MTQ4MDEwNTE5NDUy/t/all)
     
