@@ -19,11 +19,11 @@ I am currently looking for motivated candidates. Please send me an email if you 
 >*Bisimulation Algorithms for Knowing How (FAMAF-UNC, Argentina).*
 
 ***
+### <span style="color:darkblue">Former Students</span>
 **Postdocs:**
 * Ignacio Scarinci (2025, co-supervised with Mauro Valente).
 >*FAMAF-UNC, Argentina.*
 
-### <span style="color:darkblue">Former Students</span>
 **PhD Students:**
 
  * [Andrés R. Saravia](https://andresrsaravia.github.io/)  (2024). 
