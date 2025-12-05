@@ -15,9 +15,6 @@ nav: true
 ***
 ### <span style="color:darkblue">2026.</span>
 
-* C. Areces, V. Cassano and **R. Fervari**. [**Data-Aware Hybrid Tableaux.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2026-lmcs.pdf) 
->*Logical Methods in Computer Science (LMCS), to appear.*
-
 * C. Areces, **R. Fervari**, A. R. Saravia and F. R. Velázquez-Quesada. [**The Dynamics of Knowing How.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2026-jlli-1.pdf) 
 >*Journal of Logic, Language and Information (JLLI), to appear.*
 
@@ -30,6 +27,9 @@ nav: true
 >*ReacTS 2024 and CIFMA 2024, Aveiro, Portugal, November 4–5, 2024, Revised Selected Papers, volume 15551 of LNCS, Springer, 2026.*
 
 ### <span style="color:darkblue">2025.</span>
+* C. Areces, V. Cassano and **R. Fervari**. [**Data-Aware Hybrid Tableaux.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2025-lmcs.pdf) 
+>*Logical Methods in Computer Science (LMCS), volume 21, issue 4, 2025.**
+
 * C. Areces, **R. Fervari**, A. R. Saravia and F. R. Velázquez-Quesada. [**Uncertainty-Based Knowing How Logic.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2023-jlc.pdf)
 >*Journal of Logic and Computation (JLC), volume 35, issue 1, pages 1-35, 2025.*
 
