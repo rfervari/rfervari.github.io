@@ -28,7 +28,7 @@ nav: true
 
 ### <span style="color:darkblue">2025.</span>
 * C. Areces, V. Cassano and **R. Fervari**. [**Data-Aware Hybrid Tableaux.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2025-lmcs.pdf) 
->*Logical Methods in Computer Science (LMCS), volume 21, issue 4, 2025.**
+>*Logical Methods in Computer Science (LMCS), volume 21, issue 4, 2025.*
 
 * C. Areces, **R. Fervari**, A. R. Saravia and F. R. Velázquez-Quesada. [**Uncertainty-Based Knowing How Logic.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2023-jlc.pdf)
 >*Journal of Logic and Computation (JLC), volume 35, issue 1, pages 1-35, 2025.*
