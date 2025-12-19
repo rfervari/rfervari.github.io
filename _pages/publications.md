@@ -18,9 +18,11 @@ nav: true
 * C. Areces, **R. Fervari**, A. R. Saravia and F. R. Velázquez-Quesada. [**The Dynamics of Knowing How.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2026-jlli-1.pdf) 
 >*Journal of Logic, Language and Information (JLLI), to appear.*
 
-
 * C. Areces, V. Cassano, P. F. Castro and **R. Fervari**. [**Deontic Action Logics: An Algebraic Modular Perspective.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2026-jlli-2.pdf) 
 >*Journal of Logic, Language and Information (JLLI), to appear.*
+
+* C. Areces, **R. Fervari** and A. Mondejar. [**Computational Aspects of Plan-Dependent Model Equivalence: The Case of Knowing-How Bisimulations.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2026-aamas.pdf) 
+>*In Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026), to appear.*
 
 * J. Proença, **R. Fervari**, M. A. Martins, R. Kahle and G. Pluck (editors).
 [**Software Engineering and Formal Methods. SEFM 2024 Collocated Workshops.**](https://link.springer.com/book/9783031947476)

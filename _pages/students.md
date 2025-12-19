@@ -15,8 +15,6 @@ I am currently looking for motivated candidates. Please send me an email if you 
 
 **Master/UGrad Students:**
 
-* Antonio Mondejar (2025-ongoing). 
->*Bisimulation Algorithms for Knowing How (FAMAF-UNC, Argentina).*
 
 ***
 ### <span style="color:darkblue">Former Students</span>
@@ -31,6 +29,9 @@ I am currently looking for motivated candidates. Please send me an email if you 
 
 
 **Master/UGrad Students:**
+
+* Antonio Mondejar (2025). 
+>*Computational Aspects of Bisimulation for a Knowing How Logic (FAMAF-UNC, Argentina).*
 
 * Leonardo Torres Villegas (2025, co-supervised with Santiago Figueira). 
 >*Model Theory for Path Predicate Modal Logic (FAMAF-UNC, Argentina).*
