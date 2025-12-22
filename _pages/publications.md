@@ -24,6 +24,9 @@ nav: true
 * C. Areces, **R. Fervari** and A. Mondejar. [**Computational Aspects of Plan-Dependent Model Equivalence: The Case of Knowing-How Bisimulations.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2026-aamas.pdf) 
 >*In Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026), to appear.*
 
+* V. Cassano, P. F. Castro, P. R. D'Argenio and **R. Fervari**. [**AKR: A Model Checker for an Adaptative Probabilistic Knowing-How Logic.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2026-tacas.pdf) 
+>*In Proceedings of the 32nd International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS 2026), to appear.*
+
 * J. Proença, **R. Fervari**, M. A. Martins, R. Kahle and G. Pluck (editors).
 [**Software Engineering and Formal Methods. SEFM 2024 Collocated Workshops.**](https://link.springer.com/book/9783031947476)
 >*ReacTS 2024 and CIFMA 2024, Aveiro, Portugal, November 4–5, 2024, Revised Selected Papers, volume 15551 of LNCS, Springer, 2026.*

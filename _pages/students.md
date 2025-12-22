@@ -13,7 +13,7 @@ nav: true
 ### <span style="color:darkblue">Current Students</span>
 I am currently looking for motivated candidates. Please send me an email if you are interested!
 
-**Master/UGrad Students:**
+<!--  **Master/UGrad Students:** -->
 
 
 ***
