@@ -53,3 +53,5 @@ For more info, here is my CV: [**English**](https://cs.famaf.unc.edu.ar/~rfervar
 * Team Leader (Arg. side) of the group [Theory of Structured Data](https://sites.google.com/view/theoryofstructureddata-sinfin/) in the [LIA SINFIN](http://www.irp-sinfin.org).
 
 * Member of the Logics, Interaction and Intelligent Systems [(LIIS) group](http://liis.famaf.unc.edu.ar/), at FAMAF-UNC (Argentina).
+
+* PC member of: [IJCAI 2026](https://2026.ijcai.org/), [AAMAS 2026](https://cyprusconferences.org/aamas2026/), [LANMR 2026](), [DALI 2025](https://dali2025.web.ua.pt/), [CLAR 2025](https://www.zlaire.net/clar2025/), [IJCAI 2025](https://2025.ijcai.org/), [ReacTS 2025](https://reacts-workshop.github.io/2025/)...
