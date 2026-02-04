@@ -11,10 +11,15 @@ nav: true
 ---
 
 ### <span style="color:darkblue">Current Students</span>
-I am currently looking for motivated candidates. Please send me an email if you are interested!
+I am always looking for motivated candidates. Please send me an email if you are interested!
 
 <!--  **Master/UGrad Students:** -->
 
+
+**PhD Students:**
+
+ * Fabricio Carinelli (2026-ongoing). 
+>*Inference on Data-Graphs (FAMAF-UNC, Argentina).*
 
 ***
 ### <span style="color:darkblue">Former Students</span>
