@@ -8,7 +8,7 @@ description: >
 
 nav: true
 ---
-* **A Roadmap for Knowing How Logics (Tutorial).** [Part 1](https://cs.famaf.unc.edu.ar/~rfervari/files/talks/2026-facas1.pdf) | [Part 2](https://cs.famaf.unc.edu.ar/~rfervari/files/talks/2026-facas2.pdf)  | [Part 3](https://cs.famaf.unc.edu.ar/~rfervari/files/talks/2026-facas2.pdf) 
+* **A Roadmap for Knowing How Logics (Tutorial).** [Part 1](https://cs.famaf.unc.edu.ar/~rfervari/files/talks/2026-facas1.pdf) | [Part 2](https://cs.famaf.unc.edu.ar/~rfervari/files/talks/2026-facas2.pdf)  | [Part 3](https://cs.famaf.unc.edu.ar/~rfervari/files/talks/2026-facas3.pdf) 
 >*MISSION workshop + FACAS 2026 - 13th Argentine Workshop on Fundamentals for the Automatic Analysis and Construction of Software, Villa Carlos Paz, Córdoba, Argentina, 2026.*
 
 * [**On the Effects of Adding Assignments in Linear-Time Temporal Logics Modulo Theories.**](https://cs.famaf.unc.edu.ar/~rfervari/files/talks/2025-kr1.pdf) 
