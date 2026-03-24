@@ -19,7 +19,11 @@ I am always looking for motivated candidates. Please send me an email if you are
  * Fabricio Carinelli (2026-ongoing). 
 >*Inference on Data-Graphs (FAMAF-UNC, Argentina).*
 
-<!--  **Master/UGrad Students:** -->
+ **Master/UGrad Students:**
+
+* Lucia Lotumolo (2026-ongoing). 
+>*Automated Tools for Knowing-How Reasoning (FAMAF-UNC, Argentina).*
+
 
 ***
 ### <span style="color:darkblue">Former Students</span>
