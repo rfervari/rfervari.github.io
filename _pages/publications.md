@@ -21,6 +21,9 @@ nav: true
 * C. Areces, V. Cassano, P. F. Castro and **R. Fervari**. [**Deontic Action Logics: An Algebraic Modular Perspective.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2026-jlli-2.pdf) 
 >*Journal of Logic, Language and Information (JLLI), to appear.*
 
+* C. Areces, **R. Fervari** and A. Mondejar. [**Revisiting Ability-Based Bisimulation.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2026-kr.pdf) 
+>*In Proceedings of the 23rd International Conference on Principles of Knowledge Representation and Reasoning (KR 2026), to appear.*
+
 * C. Areces, **R. Fervari** and A. Mondejar. [**Computational Aspects of Plan-Dependent Model Equivalence: The Case of Knowing-How Bisimulations.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2026-aamas.pdf) 
 >*In Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026), to appear.*
 
