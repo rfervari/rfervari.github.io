@@ -42,7 +42,7 @@ I am always looking for motivated candidates. Please send me an email if you are
 * Antonio Mondejar (2025). 
 >*Computational Aspects of Bisimulation for a Knowing How Logic (FAMAF-UNC, Argentina).*
 
-* Leonardo Torres Villegas (2025, co-supervised with Santiago Figueira). 
+* Leonardo Torres (2025, co-supervised with Santiago Figueira). 
 >*Model Theory for Path Predicate Modal Logic (FAMAF-UNC, Argentina).*
 
 * Ziqi Wang (2024). 
