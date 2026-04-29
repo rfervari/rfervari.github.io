@@ -28,7 +28,7 @@ nav: true
 >*In Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026), to appear.*
 
 * V. Cassano, P. F. Castro, P. R. D'Argenio and **R. Fervari**. [**AKR: A Model Checker for an Adaptative Probabilistic Knowing-How Logic.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2026-tacas.pdf) 
->*In Proceedings of the 32nd International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS 2026), to appear.*
+>*In Proceedings of the 32nd International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS 2026), volume 16505 of LNCS, pages 586-593, Springer 2026.*
 
 * J. Proença, **R. Fervari**, M. A. Martins, R. Kahle and G. Pluck (editors).
 [**Software Engineering and Formal Methods. SEFM 2024 Collocated Workshops.**](https://link.springer.com/book/9783031947476)

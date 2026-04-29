@@ -48,7 +48,7 @@ For more info, here is my CV: [**English**](https://cs.famaf.unc.edu.ar/~rfervar
 
 * Head of the CS Doctoral Program at [FAMAF](https://www.famaf.unc.edu.ar), University of Córdoba (Argentina).
 
-* Coordinator (Alternate) of the Informatics and Communications Commission for promotions, admissions and annual reports at [CONICET](https://www.conicet.gov.ar), Argentina.
+* Coordinator of the Informatics and Communications Commission for promotions, admissions and annual reports at [CONICET](https://www.conicet.gov.ar), Argentina.
 
 * Team Leader (Arg. side) of the group [Theory of Structured Data](https://sites.google.com/view/theoryofstructureddata-sinfin/) in the [LIA SINFIN](http://www.irp-sinfin.org).
 
