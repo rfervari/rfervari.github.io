@@ -25,7 +25,7 @@ nav: true
 >*In Proceedings of the 23rd International Conference on Principles of Knowledge Representation and Reasoning (KR 2026), to appear.*
 
 * C. Areces, **R. Fervari** and A. Mondejar. [**Computational Aspects of Plan-Dependent Model Equivalence: The Case of Knowing-How Bisimulations.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2026-aamas.pdf) 
->*In Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026), to appear.*
+>*In Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026), pages 1323-1331, ACM 2026.*
 
 * V. Cassano, P. F. Castro, P. R. D'Argenio and **R. Fervari**. [**AKR: A Model Checker for an Adaptative Probabilistic Knowing-How Logic.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2026-tacas.pdf) 
 >*In Proceedings of the 32nd International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS 2026), volume 16505 of LNCS, pages 586-593, Springer 2026.*
