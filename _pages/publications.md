@@ -30,6 +30,10 @@ nav: true
 * V. Cassano, P. F. Castro, P. R. D'Argenio and **R. Fervari**. [**AKR: A Model Checker for an Adaptative Probabilistic Knowing-How Logic.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2026-tacas.pdf) 
 >*In Proceedings of the 32nd International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS 2026), volume 16505 of LNCS, pages 586-593, Springer 2026.*
 
+* **R. Fervari**, S. Figueira, G. Goren-Roig and L. Torres. [**Basic Model Theory
+for Path Predicate Modal Logic.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2026-lsfa.pdf)
+>*In 21st International Symposium on Logical and Semantic Frameworks, with Applications (LSFA 2026),to appear, 2025.*
+
 * J. Proença, **R. Fervari**, M. A. Martins, R. Kahle and G. Pluck (editors).
 [**Software Engineering and Formal Methods. SEFM 2024 Collocated Workshops.**](https://link.springer.com/book/9783031947476)
 >*ReacTS 2024 and CIFMA 2024, Aveiro, Portugal, November 4–5, 2024, Revised Selected Papers, volume 15551 of LNCS, Springer, 2026.*
