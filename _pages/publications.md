@@ -31,7 +31,7 @@ nav: true
 >*In Proceedings of the 32nd International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS 2026), volume 16505 of LNCS, pages 586-593, Springer 2026.*
 
 * **R. Fervari**, S. Figueira, G. Goren-Roig and L. Torres. [**Basic Model Theory
-for Path Predicate Modal Logic.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2026-lsfa.pdf)
+for Path Predicate Modal Logic.**](https://drive.google.com/file/d/1YGia9I9nOQ2teMEgzMwTrD_FsAItBqkR/view?usp=sharing)
 >*In 21st International Symposium on Logical and Semantic Frameworks, with Applications (LSFA 2026), to appear, 2026.*
 
 * J. Proença, **R. Fervari**, M. A. Martins, R. Kahle and G. Pluck (editors).
