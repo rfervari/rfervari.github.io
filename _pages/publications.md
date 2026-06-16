@@ -21,7 +21,7 @@ nav: true
 * C. Areces, V. Cassano, P. F. Castro and **R. Fervari**. [**Deontic Action Logics: An Algebraic Modular Perspective.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2026-jlli-2.pdf) 
 >*Journal of Logic, Language and Information (JLLI), to appear.*
 
-* B. Icard and **R. Fervari**. [**Beyond the Spell: A Dynamic Logic Analysis of Misdirection.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2026-jal.pdf) 
+* B. Icard and **R. Fervari**. [**Beyond the Spell: A Dynamic Logic Analysis of Misdirection.**](https://drive.google.com/file/d/1WHjJ0V5DqXJBeU9LxvIIefNN0PV4YEd9/view?usp=sharing) 
 >*Journal of Applied Logics - IfCoLog Journal, to appear.*
 
 * C. Areces, **R. Fervari** and A. Mondejar. [**Revisiting Ability-Based Bisimulation.**](https://drive.google.com/file/d/1S9ZQU84pv4Eom__gNBNUdY4wudbVzQgF/view?usp=sharing) 
