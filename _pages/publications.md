@@ -22,7 +22,7 @@ nav: true
 >*Journal of Logic, Language and Information (JLLI), to appear.*
 
 * B. Icard and **R. Fervari**. [**Beyond the Spell: A Dynamic Logic Analysis of Misdirection.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2026-jal.pdf) 
->*Journal of Applied Logics - IfCoLog Journal, 2026, to appear*
+>*Journal of Applied Logics - IfCoLog Journal, to appear.*
 
 * C. Areces, **R. Fervari** and A. Mondejar. [**Revisiting Ability-Based Bisimulation.**](https://drive.google.com/file/d/1S9ZQU84pv4Eom__gNBNUdY4wudbVzQgF/view?usp=sharing) 
 >*In Proceedings of the 23rd International Conference on Principles of Knowledge Representation and Reasoning (KR 2026), to appear.*
