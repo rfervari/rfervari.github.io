@@ -24,9 +24,6 @@ nav: true
 * B. Icard and **R. Fervari**. [**Beyond the Spell: A Dynamic Logic Analysis of Misdirection.**](https://drive.google.com/file/d/14evvyG5v4fC6uUQba2ia0fe1tCiXBGEh/view?usp=sharing) 
 >*Journal of Applied Logics - IfCoLog Journal, to appear.*
 
-* **R. Fervari** and M. A. Martins. [**Reconfigurable Transition Systems - ReacTS 2024: Editorial Article.**](https://drive.google.com/file/d/1JxAcKpC8pumAsbO_SO9GFY21fX_kfzoA/view?usp=sharing) 
->*Journal of Applied Logics - IfCoLog Journal, to appear.*
-
 * C. Areces, **R. Fervari** and A. Mondejar. [**Revisiting Ability-Based Bisimulation.**](https://drive.google.com/file/d/1S9ZQU84pv4Eom__gNBNUdY4wudbVzQgF/view?usp=sharing) 
 >*In Proceedings of the 23rd International Conference on Principles of Knowledge Representation and Reasoning (KR 2026), to appear.*
 
@@ -42,6 +39,9 @@ nav: true
 * **R. Fervari**, S. Figueira, G. Goren-Roig and L. Torres. [**Basic Model Theory
 for Path Predicate Modal Logic.**](https://drive.google.com/file/d/1YGia9I9nOQ2teMEgzMwTrD_FsAItBqkR/view?usp=sharing)
 >*In 21st International Symposium on Logical and Semantic Frameworks, with Applications (LSFA 2026), to appear, 2026.*
+
+* **R. Fervari** and M. A. Martins. [**Reconfigurable Transition Systems - ReacTS 2024: Editorial Article.**](https://drive.google.com/file/d/1JxAcKpC8pumAsbO_SO9GFY21fX_kfzoA/view?usp=sharing) 
+>*Journal of Applied Logics - IfCoLog Journal, to appear.*
 
 * J. Proença, **R. Fervari**, M. A. Martins, R. Kahle and G. Pluck (editors).
 [**Software Engineering and Formal Methods. SEFM 2024 Collocated Workshops.**](https://link.springer.com/book/9783031947476)
