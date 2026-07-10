@@ -22,7 +22,10 @@ nav: true
 >*Journal of Logic, Language and Information (JLLI), to appear.*
 
 * B. Icard and **R. Fervari**. [**Beyond the Spell: A Dynamic Logic Analysis of Misdirection.**](https://drive.google.com/file/d/14evvyG5v4fC6uUQba2ia0fe1tCiXBGEh/view?usp=sharing) 
->*Journal of Applied Logics - IfCoLog Journal, to appear.*
+>*Journal of Applied Logics - IfCoLog Journal, volume 13, number 4, pages 555-598, 2026.*
+
+* **R. Fervari** and M. A. Martins. [**Reconfigurable Transition Systems - ReacTS 2024: Editorial Article.**](https://drive.google.com/file/d/1JxAcKpC8pumAsbO_SO9GFY21fX_kfzoA/view?usp=sharing) 
+>*Journal of Applied Logics - IfCoLog Journal, volume 13, number 4, pages 463-464, 2026.*
 
 * C. Areces, **R. Fervari** and A. Mondejar. [**Revisiting Ability-Based Bisimulation.**](https://drive.google.com/file/d/1S9ZQU84pv4Eom__gNBNUdY4wudbVzQgF/view?usp=sharing) 
 >*In Proceedings of the 23rd International Conference on Principles of Knowledge Representation and Reasoning (KR 2026), to appear.*
@@ -33,15 +36,12 @@ nav: true
 * V. Cassano, P. F. Castro, P. R. D'Argenio and **R. Fervari**. [**AKR: A Model Checker for an Adaptative Probabilistic Knowing-How Logic.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2026-tacas.pdf) 
 >*In Proceedings of the 32nd International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS 2026), volume 16505 of LNCS, pages 586-593, Springer 2026.*
 
-* **R. Fervari**, R. Galimullin and F. R. Velázquez-Quesada. [**Group Knowing-How.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2026-eumas.pdf) 
+* **R. Fervari**, R. Galimullin and F. R. Velázquez-Quesada. [**Group Knowing-How.**](https://drive.google.com/file/d/1h0JPBHRM4wNeuve_4Uh4KXdolRTo6yQd/view?usp=sharing) 
 >*In Proceedings of the 23rd European Conference on Multi-Agent Systems (EUMAS 2026), to appear, 2026.*
 
 * **R. Fervari**, S. Figueira, G. Goren-Roig and L. Torres. [**Basic Model Theory
 for Path Predicate Modal Logic.**](https://drive.google.com/file/d/1YGia9I9nOQ2teMEgzMwTrD_FsAItBqkR/view?usp=sharing)
 >*In 21st International Symposium on Logical and Semantic Frameworks, with Applications (LSFA 2026), to appear, 2026.*
-
-* **R. Fervari** and M. A. Martins. [**Reconfigurable Transition Systems - ReacTS 2024: Editorial Article.**](https://drive.google.com/file/d/1JxAcKpC8pumAsbO_SO9GFY21fX_kfzoA/view?usp=sharing) 
->*Journal of Applied Logics - IfCoLog Journal, to appear.*
 
 * J. Proença, **R. Fervari**, M. A. Martins, R. Kahle and G. Pluck (editors).
 [**Software Engineering and Formal Methods. SEFM 2024 Collocated Workshops.**](https://link.springer.com/book/9783031947476)
