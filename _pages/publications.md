@@ -28,7 +28,7 @@ nav: true
 >*Journal of Applied Logics - IfCoLog Journal, volume 13, number 4, pages 463-464, 2026.*
 
 * C. Areces, **R. Fervari** and A. Mondejar. [**Revisiting Ability-Based Bisimulation.**](https://drive.google.com/file/d/1S9ZQU84pv4Eom__gNBNUdY4wudbVzQgF/view?usp=sharing) 
->*In Proceedings of the 23rd International Conference on Principles of Knowledge Representation and Reasoning (KR 2026), to appear.*
+>*In Proceedings of the 23rd International Conference on Principles of Knowledge Representation and Reasoning (KR 2026), pages 56-66. 2026.*
 
 * C. Areces, **R. Fervari** and A. Mondejar. [**Computational Aspects of Plan-Dependent Model Equivalence: The Case of Knowing-How Bisimulations.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2026-aamas.pdf) 
 >*In Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026), pages 1323-1331, ACM 2026.*
