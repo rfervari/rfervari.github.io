@@ -41,7 +41,7 @@ nav: true
 
 * **R. Fervari**, S. Figueira, G. Goren-Roig and L. Torres. [**Basic Model Theory
 for Path Predicate Modal Logic.**](https://drive.google.com/file/d/1YGia9I9nOQ2teMEgzMwTrD_FsAItBqkR/view?usp=sharing)
->*In 21st International Symposium on Logical and Semantic Frameworks, with Applications (LSFA 2026), to appear, 2026.*
+>*In 21st International Symposium on Logical and Semantic Frameworks, with Applications (LSFA 2026), pages 89-105, EPTCS 449, 2026.*
 
 * J. Proença, **R. Fervari**, M. A. Martins, R. Kahle and G. Pluck (editors).
 [**Software Engineering and Formal Methods. SEFM 2024 Collocated Workshops.**](https://link.springer.com/book/9783031947476)
