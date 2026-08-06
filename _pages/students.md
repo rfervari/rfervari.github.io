@@ -27,6 +27,8 @@ I am always looking for motivated candidates. Please send me an email if you are
 * Lucia Lotumolo (2026-ongoing). 
 >*Automated Tools for Knowing-How Reasoning (FAMAF-UNC, Argentina).*
 
+* Lucia Lotumolo (2026-ongoing). 
+>*Automated Tools for Knowing-How Reasoning (FAMAF-UNC, Argentina).*
 
 ***
 ### <span style="color:darkblue">Former Students</span>
