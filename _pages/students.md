@@ -21,6 +21,12 @@ I am always looking for motivated candidates. Please send me an email if you are
 
  **Master/UGrad Students:**
 
+* Guadalupe Galindo (2026-ongoing). 
+>*Knowing Why via Epistemic Causal Models (FAMAF-UNC, Argentina).*
+
+* Nicolás Cagliero (2026-ongoing). 
+>*An Algebraic Approach for Knowing How to Execute a Plan (FAMAF-UNC, Argentina).*
+
 * Lucia Lotumolo (2026-ongoing). 
 >*Automated Tools for Knowing-How Reasoning (FAMAF-UNC, Argentina).*
 
