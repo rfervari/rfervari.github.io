@@ -16,16 +16,16 @@ I am always looking for motivated candidates. Please send me an email if you are
 
 **PhD Students:**
 
- * Fabricio Carinelli (2026-ongoing). 
+* Fabricio Carinelli (2026-ongoing). 
 >*Inference on Data-Graphs (FAMAF-UNC, Argentina).*
 
- **Master/UGrad Students:**
+**Master/UGrad Students:**
 
 <!-- * Guadalupe Galindo (2026-ongoing).
 >*Knowing Why via Epistemic Causal Models (FAMAF-UNC, Argentina).* -->
 
-* Lucia Lotumolo (2026-ongoing). 
->*Automated Tools for Knowing-How Reasoning (FAMAF-UNC, Argentina).*
+* Guadalupe Galindo (2026-ongoing). 
+>*Knowing Why via Epistemic Causal Models (FAMAF-UNC, Argentina).*
 
 * Lucia Lotumolo (2026-ongoing). 
 >*Automated Tools for Knowing-How Reasoning (FAMAF-UNC, Argentina).*
@@ -38,7 +38,7 @@ I am always looking for motivated candidates. Please send me an email if you are
 
 **PhD Students:**
 
- * [Andrés R. Saravia](https://andresrsaravia.github.io/)  (2024). 
+* [Andrés R. Saravia](https://andresrsaravia.github.io/)  (2024). 
 >*Ability-Based Epistemic Logics (FAMAF-UNC, Argentina).*
 
 
