@@ -39,6 +39,10 @@ nav: true
 * **R. Fervari**, R. Galimullin and F. R. Velázquez-Quesada. [**Group Knowing-How.**](https://drive.google.com/file/d/1h0JPBHRM4wNeuve_4Uh4KXdolRTo6yQd/view?usp=sharing) 
 >*In Proceedings of the 23rd European Conference on Multi-Agent Systems (EUMAS 2026), to appear, 2026.*
 
+* V. Cassano and **R. Fervari**. [**Towards Taming Data Comparisons in a
+Description Logic Setting.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2026-ictac.pdf) 
+>*In Proceedings of the 23rd International Colloquium on Theoretical Aspects of Computing (ICTAC 2026), to appear, 2026.*
+
 * **R. Fervari**, S. Figueira, G. Goren-Roig and L. Torres. [**Basic Model Theory
 for Path Predicate Modal Logic.**](https://drive.google.com/file/d/1YGia9I9nOQ2teMEgzMwTrD_FsAItBqkR/view?usp=sharing)
 >*In 21st International Symposium on Logical and Semantic Frameworks, with Applications (LSFA 2026), pages 89-105, EPTCS 449, 2026.*
