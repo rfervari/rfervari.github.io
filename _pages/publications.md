@@ -16,10 +16,10 @@ nav: true
 ### <span style="color:darkblue">2026.</span>
 
 * C. Areces, **R. Fervari**, A. R. Saravia and F. R. Velázquez-Quesada. [**The Dynamics of Knowing How.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2026-jlli-1.pdf) 
->*Journal of Logic, Language and Information (JLLI), to appear.*
+>*Journal of Logic, Language and Information (JLLI), volume 35, pages 303-340, 2026.*
 
 * C. Areces, V. Cassano, P. F. Castro and **R. Fervari**. [**Deontic Action Logics: An Algebraic Modular Perspective.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2026-jlli-2.pdf) 
->*Journal of Logic, Language and Information (JLLI), to appear.*
+>*Journal of Logic, Language and Information (JLLI), volume 35, pages 269-302, 2026.*
 
 * B. Icard and **R. Fervari**. [**Beyond the Spell: A Dynamic Logic Analysis of Misdirection.**](https://drive.google.com/file/d/14evvyG5v4fC6uUQba2ia0fe1tCiXBGEh/view?usp=sharing) 
 >*Journal of Applied Logics - IfCoLog Journal, volume 13, number 4, pages 555-598, 2026.*
