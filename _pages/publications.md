@@ -37,7 +37,7 @@ nav: true
 >*In Proceedings of the 32nd International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS 2026), volume 16505 of LNCS, pages 586-593, Springer 2026.*
 
 * **R. Fervari**, R. Galimullin and F. R. Velázquez-Quesada. [**Group Knowing-How.**](https://drive.google.com/file/d/1h0JPBHRM4wNeuve_4Uh4KXdolRTo6yQd/view?usp=sharing) 
->*In Proceedings of the 23rd European Conference on Multi-Agent Systems (EUMAS 2026), to appear, 2026.*
+>*In Proceedings of the 23rd European Conference on Multi-Agent Systems (EUMAS 2026), volume 16829 of LNCS, pages 477-494, Springer 2026. [**Best Paper Award**]*
 
 * V. Cassano and **R. Fervari**. [**Towards Taming Data Comparisons in a
 Description Logic Setting.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2026-ictac.pdf) 
