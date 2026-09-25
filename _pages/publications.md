@@ -37,8 +37,9 @@ nav: true
 >*In Proceedings of the 32nd International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS 2026), volume 16505 of LNCS, pages 586-593, Springer 2026.*
 
 * **R. Fervari**, R. Galimullin and F. R. Velázquez-Quesada. [**Group Knowing-How.**](https://drive.google.com/file/d/1h0JPBHRM4wNeuve_4Uh4KXdolRTo6yQd/view?usp=sharing) 
->*In Proceedings of the 23rd European Conference on Multi-Agent Systems (EUMAS 2026), volume 16829 of LNCS, pages 477-494, Springer 2026.* <!-- Change width and height to make it smaller (e.g., 14px or 16px) -->
-[<img src="https://githubassets.com" width="12" height="12 alt="star"> **Best Paper Award**]
+>*In Proceedings of the 23rd European Conference on Multi-Agent Systems (EUMAS 2026), volume 16829 of LNCS, pages 477-494, Springer 2026.* [<svg xmlns="http://w3.org" width="12" height="12" viewBox="0 0 24 24" fill="#FFD700" style="vertical-align: middle; margin-right: 4px;">
+  <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
+</svg>**Best Paper Award**]
 
 
 * V. Cassano and **R. Fervari**. [**Towards Taming Data Comparisons in a
