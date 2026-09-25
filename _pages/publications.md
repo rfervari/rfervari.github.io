@@ -37,7 +37,7 @@ nav: true
 >*In Proceedings of the 32nd International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS 2026), volume 16505 of LNCS, pages 586-593, Springer 2026.*
 
 * **R. Fervari**, R. Galimullin and F. R. Velázquez-Quesada. [**Group Knowing-How.**](https://drive.google.com/file/d/1h0JPBHRM4wNeuve_4Uh4KXdolRTo6yQd/view?usp=sharing) 
->*In Proceedings of the 23rd European Conference on Multi-Agent Systems (EUMAS 2026), volume 16829 of LNCS, pages 477-494, Springer 2026.* **[:star: Best Paper Award]**
+>*In Proceedings of the 23rd European Conference on Multi-Agent Systems (EUMAS 2026), volume 16829 of LNCS, pages 477-494, Springer 2026.* **:star: Best Paper Award**
 
 * V. Cassano and **R. Fervari**. [**Towards Taming Data Comparisons in a
 Description Logic Setting.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2026-ictac.pdf) 
@@ -243,7 +243,7 @@ for Path Predicate Modal Logic.**](https://drive.google.com/file/d/1YGia9I9nOQ2t
 >*In Proceedings of  Frontiers of Combining Systems, volume 8152 of LNCS, pages 263–278. Springer, 2013.*
 
 * **R.  Fervari.** [**The Impact of Including Model Update Operators in Modal Logics.**](https://cs.famaf.unc.edu.ar/~rfervari/files/papers/2013-esslli.pdf)
->*In Pristine Perspectives on Logic, Language, and Computation - ESSLLI 2012 and ESSLLI 2013 Student Sessions. Selected Papers, volume 8607 of LNCS, pages 91–108. Springer 2013.*
+>*In Pristine Perspectives on Logic, Language, and Computation - ESSLLI 2012 and ESSLLI 2013 Student Sessions. Selected Papers, volume 8607 of LNCS, pages 91–108. Springer 2013.* **:star: Best Poster Award**
 
 ***
 
